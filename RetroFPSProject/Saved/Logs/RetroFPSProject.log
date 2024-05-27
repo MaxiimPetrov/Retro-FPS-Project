@@ -1895,3 +1895,442 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.05.27-23.17.04:656][916]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.05.27-23.17.04:656][916]LogContentValidation: Display: Validating asset /Game/Blueprints/Projectiles/BP_Projectile.BP_Projectile
 [2024.05.27-23.17.04:657][916]AssetCheck: /Game/Blueprints/Projectiles/BP_Projectile Validating asset
+[2024.05.27-23.22.07:715][606]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BP_BaseWeapon.BP_BaseWeapon
+[2024.05.27-23.22.47:730][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.05.27-23.22.47:732][304]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2024.05.27-23.22.47:733][304]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_BaseWeapon] ([2] browsable assets)...
+[2024.05.27-23.22.47:733][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_BaseWeapon]
+[2024.05.27-23.22.47:748][304]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Weapons/BP_BaseWeapon_Auto3
+[2024.05.27-23.22.47:748][304]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_BaseWeapon_Auto3E7D8197345CA4D97CB39718C77E70FA7.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Blueprints/Weapons/BP_BaseWeapon_Auto3.uasset'
+[2024.05.27-23.22.47:749][304]LogFileHelpers: Auto-saving content packages took 0.017
+[2024.05.27-23.26.28:549][444]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.05.27-23.27.56:126][332]LogBlueprint: Error: [AssetLog] C:\Users\Max\Desktop\Retro FPS Project\Retro-FPS-Project\RetroFPSProject\Content\Blueprints\Weapons\BP_BaseWeapon.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.05.27-23.27.56:126][332]LogBlueprint: Error: [AssetLog] C:\Users\Max\Desktop\Retro FPS Project\Retro-FPS-Project\RetroFPSProject\Content\Blueprints\Weapons\BP_BaseWeapon.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.05.27-23.27.56:165][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.05.27-23.28.06:100][393]LogEditorTransaction: Undo Add Node
+[2024.05.27-23.28.16:447][404]LogBlueprint: Error: [AssetLog] C:\Users\Max\Desktop\Retro FPS Project\Retro-FPS-Project\RetroFPSProject\Content\Blueprints\Weapons\BP_BaseWeapon.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.05.27-23.28.16:447][404]LogBlueprint: Error: [AssetLog] C:\Users\Max\Desktop\Retro FPS Project\Retro-FPS-Project\RetroFPSProject\Content\Blueprints\Weapons\BP_BaseWeapon.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.05.27-23.28.16:477][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.27-23.29.47:521][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-23.29.47:536][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_BaseWeapon] ([2] browsable assets)...
+[2024.05.27-23.29.47:536][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_BaseWeapon]
+[2024.05.27-23.29.47:552][417]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_BaseWeapon
+[2024.05.27-23.29.47:552][417]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_BaseWeapon813D1F184A4616821E8DFFA3EADDBD46.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/Weapons/BP_BaseWeapon.uasset'
+[2024.05.27-23.29.47:558][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.166 ms (total: 827.503 ms)
+[2024.05.27-23.29.47:574][417]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.27-23.29.47:574][417]LogContentValidation: Enabled validators:
+[2024.05.27-23.29.47:574][417]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.27-23.29.47:574][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.27-23.29.47:574][417]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.27-23.29.47:574][417]LogContentValidation: Display: Validating asset /Game/Blueprints/Weapons/BP_BaseWeapon.BP_BaseWeapon
+[2024.05.27-23.29.47:574][417]AssetCheck: /Game/Blueprints/Weapons/BP_BaseWeapon Validating asset
+[2024.05.27-23.30.21:882][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-23.30.21:902][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_BaseWeapon] ([2] browsable assets)...
+[2024.05.27-23.30.21:902][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_BaseWeapon]
+[2024.05.27-23.30.21:918][567]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_BaseWeapon
+[2024.05.27-23.30.21:918][567]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_BaseWeapon43CC31F646B6FA7925830FB369F3A162.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/Weapons/BP_BaseWeapon.uasset'
+[2024.05.27-23.30.21:924][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.854 ms (total: 870.358 ms)
+[2024.05.27-23.30.21:951][567]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.27-23.30.21:951][567]LogContentValidation: Enabled validators:
+[2024.05.27-23.30.21:951][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.27-23.30.21:951][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.27-23.30.21:951][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.27-23.30.21:951][567]LogContentValidation: Display: Validating asset /Game/Blueprints/Weapons/BP_BaseWeapon.BP_BaseWeapon
+[2024.05.27-23.30.21:951][567]AssetCheck: /Game/Blueprints/Weapons/BP_BaseWeapon Validating asset
+[2024.05.27-23.30.24:007][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.27-23.30.24:948][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-23.30.24:962][907]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_BaseWeapon] ([2] browsable assets)...
+[2024.05.27-23.30.24:962][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_BaseWeapon]
+[2024.05.27-23.30.24:978][907]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_BaseWeapon
+[2024.05.27-23.30.24:979][907]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_BaseWeapon39A9885141B3DBA3FF25A08D24073580.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/Weapons/BP_BaseWeapon.uasset'
+[2024.05.27-23.30.24:985][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.736 ms (total: 907.094 ms)
+[2024.05.27-23.30.25:007][907]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.27-23.30.25:007][907]LogContentValidation: Enabled validators:
+[2024.05.27-23.30.25:007][907]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.27-23.30.25:007][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.27-23.30.25:007][907]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.27-23.30.25:007][907]LogContentValidation: Display: Validating asset /Game/Blueprints/Weapons/BP_BaseWeapon.BP_BaseWeapon
+[2024.05.27-23.30.25:007][907]AssetCheck: /Game/Blueprints/Weapons/BP_BaseWeapon Validating asset
+[2024.05.27-23.30.31:664][694]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BP_PlasmaGun.BP_PlasmaGun
+[2024.05.27-23.31.17:764][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-23.31.17:795][513]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_PlasmaGun] ([2] browsable assets)...
+[2024.05.27-23.31.17:795][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_PlasmaGun]
+[2024.05.27-23.31.17:802][513]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_PlasmaGun
+[2024.05.27-23.31.17:803][513]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_PlasmaGunBA072CEE45ECAA5EF9CBDC8171DC49FF.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/Weapons/BP_PlasmaGun.uasset'
+[2024.05.27-23.31.17:809][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.493 ms (total: 951.587 ms)
+[2024.05.27-23.31.17:833][513]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.27-23.31.17:833][513]LogContentValidation: Enabled validators:
+[2024.05.27-23.31.17:833][513]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.27-23.31.17:833][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.27-23.31.17:833][513]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.27-23.31.17:833][513]LogContentValidation: Display: Validating asset /Game/Blueprints/Weapons/BP_PlasmaGun.BP_PlasmaGun
+[2024.05.27-23.31.17:833][513]AssetCheck: /Game/Blueprints/Weapons/BP_PlasmaGun Validating asset
+[2024.05.27-23.31.27:521][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.27-23.31.28:056][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-23.31.28:071][252]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_PlasmaGun] ([2] browsable assets)...
+[2024.05.27-23.31.28:071][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_PlasmaGun]
+[2024.05.27-23.31.28:078][252]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_PlasmaGun
+[2024.05.27-23.31.28:079][252]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_PlasmaGun423B8CAA40C961F3AC33AD8B1AE367FA.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/Weapons/BP_PlasmaGun.uasset'
+[2024.05.27-23.31.28:086][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.195 ms (total: 981.783 ms)
+[2024.05.27-23.31.28:104][252]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.27-23.31.28:104][252]LogContentValidation: Enabled validators:
+[2024.05.27-23.31.28:104][252]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.27-23.31.28:104][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.27-23.31.28:104][252]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.27-23.31.28:104][252]LogContentValidation: Display: Validating asset /Game/Blueprints/Weapons/BP_PlasmaGun.BP_PlasmaGun
+[2024.05.27-23.31.28:104][252]AssetCheck: /Game/Blueprints/Weapons/BP_PlasmaGun Validating asset
+[2024.05.27-23.31.32:246][705]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.27-23.31.35:362][957]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter'
+[2024.05.27-23.31.40:109][429]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.27-23.31.40:115][429]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.27-23.31.40:115][429]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.27-23.31.40:117][429]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1.771 ms (total: 7.218 ms)
+[2024.05.27-23.31.40:118][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.27-23.31.40:118][429]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-23.31.40:121][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003165s)
+[2024.05.27-23.31.40:121][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003191s)
+[2024.05.27-23.31.40:138][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.27-23.31.40:140][429]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.27-23.31.40:140][429]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.27-23.31.40:140][429]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-23.31.40:140][429]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.27-23.31.40:140][429]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.27-23.31.40:142][429]LogContentBundle: [FirstPersonMap(Standalone)] Creating new container.
+[2024.05.27-23.31.40:142][429]LogWorldPartition: Display: WorldPartition initialize took 1.287 ms (total: 47.727 ms)
+[2024.05.27-23.31.40:142][429]LogPlayLevel: PIE: World Init took: (0.002205s)
+[2024.05.27-23.31.40:149][429]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.27-23.31.40:149][429]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.27-23.31.40:149][429]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.27-23.31.40:149][429]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.27-23.31.40:149][429]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.27-23.31.40:149][429]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.27-23.31.40:149][429]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.27-23.31.40:149][429]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.27-23.31.40:149][429]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.27-23.31.40:149][429]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.27-23.31.40:149][429]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.27-23.31.40:149][429]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.27-23.31.40:151][429]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.27-23.31.40:174][429]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.05.27-23.31.40:174][429]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.27-23.31.40:174][429]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.27-23.31.40:174][429]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.27-23.31.40:175][429]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.27-23.31.40:175][429]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.05.27-23.31.40:176][429]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.27-23.31.40:176][429]LogInit: FAudioDevice initialized with ID 5.
+[2024.05.27-23.31.40:176][429]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.27-23.31.40:176][429]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2024.05.27-23.31.40:176][429]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.27-23.31.40:199][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-23.31.40:200][429]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.27-23.31.40:201][429]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.27-19.31.40
+[2024.05.27-23.31.40:202][429]LogWorld: Bringing up level for play took: 0.001661
+[2024.05.27-23.31.40:203][429]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.05.27-23.31.40:217][429]PIE: Server logged in
+[2024.05.27-23.31.40:219][429]PIE: Play in editor total start time 0.106 seconds.
+[2024.05.27-23.32.18:027][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-23.32.18:027][428]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-23.32.18:027][428]LogSlate: Window 'RetroFPSProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.27-23.32.18:033][428]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-23.32.18:034][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-23.32.18:034][428]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2024.05.27-23.32.18:034][428]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.05.27-23.32.18:034][428]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-23.32.18:034][428]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-23.32.18:036][428]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.27-23.32.18:041][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-23.32.18:059][428]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.27-23.32.18:059][428]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.27-23.32.18:059][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.27-23.32.18:060][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.27-23.32.18:068][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.27-23.32.18:131][429]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.05.27-23.33.26:035][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.27-23.33.26:037][310]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.019
+[2024.05.27-23.33.26:038][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Weapons/PlasmaGun/plsfa0] ([1] browsable assets)...
+[2024.05.27-23.33.26:038][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Weapons/PlasmaGun/plsfa0]
+[2024.05.27-23.33.26:039][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Weapons/PlasmaGun/plsfa0_Auto4
+[2024.05.27-23.33.26:039][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/plsfa0_Auto4443D18AD49B0D325112B489A13B1AE2A.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Weapons/PlasmaGun/plsfa0_Auto4.uasset'
+[2024.05.27-23.33.26:040][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Weapons/PlasmaGun/plsfb0] ([1] browsable assets)...
+[2024.05.27-23.33.26:040][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Weapons/PlasmaGun/plsfb0]
+[2024.05.27-23.33.26:041][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Weapons/PlasmaGun/plsfb0_Auto4
+[2024.05.27-23.33.26:041][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/plsfb0_Auto4DAC2353949C9C37655F38EA3B066A2BA.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Weapons/PlasmaGun/plsfb0_Auto4.uasset'
+[2024.05.27-23.33.26:042][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Weapons/PlasmaGun/plsga0] ([1] browsable assets)...
+[2024.05.27-23.33.26:042][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Weapons/PlasmaGun/plsga0]
+[2024.05.27-23.33.26:043][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Weapons/PlasmaGun/plsga0_Auto4
+[2024.05.27-23.33.26:043][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/plsga0_Auto4EAC0FFD5452B120C5347308AA2E7CAB1.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Weapons/PlasmaGun/plsga0_Auto4.uasset'
+[2024.05.27-23.33.26:044][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Weapons/PlasmaGun/plsfa0_Sprite] ([1] browsable assets)...
+[2024.05.27-23.33.26:044][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Weapons/PlasmaGun/plsfa0_Sprite]
+[2024.05.27-23.33.26:045][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Weapons/PlasmaGun/plsfa0_Sprite_Auto4
+[2024.05.27-23.33.26:045][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/plsfa0_Sprite_Auto435C36E37442150A116854EBC933C66F4.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Weapons/PlasmaGun/plsfa0_Sprite_Auto4.uasset'
+[2024.05.27-23.33.26:046][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Weapons/PlasmaGun/plsfb0_Sprite] ([1] browsable assets)...
+[2024.05.27-23.33.26:046][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Weapons/PlasmaGun/plsfb0_Sprite]
+[2024.05.27-23.33.26:047][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Weapons/PlasmaGun/plsfb0_Sprite_Auto4
+[2024.05.27-23.33.26:047][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/plsfb0_Sprite_Auto40A8ED864464A15B60331D690FA5DD100.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Weapons/PlasmaGun/plsfb0_Sprite_Auto4.uasset'
+[2024.05.27-23.33.26:048][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Weapons/PlasmaGun/plsga0_Sprite] ([1] browsable assets)...
+[2024.05.27-23.33.26:048][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Weapons/PlasmaGun/plsga0_Sprite]
+[2024.05.27-23.33.26:049][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Weapons/PlasmaGun/plsga0_Sprite_Auto4
+[2024.05.27-23.33.26:049][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/plsga0_Sprite_Auto4D6F0A57549156A7D7914DAA0341E83EA.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Weapons/PlasmaGun/plsga0_Sprite_Auto4.uasset'
+[2024.05.27-23.33.26:050][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Weapons/PlasmaGun/PlasmaIdle] ([1] browsable assets)...
+[2024.05.27-23.33.26:050][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Weapons/PlasmaGun/PlasmaIdle]
+[2024.05.27-23.33.26:051][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Weapons/PlasmaGun/PlasmaIdle_Auto4
+[2024.05.27-23.33.26:051][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/PlasmaIdle_Auto442CF700746D86BF23230BBBDEA0484D7.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Weapons/PlasmaGun/PlasmaIdle_Auto4.uasset'
+[2024.05.27-23.33.26:052][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/BFG/BFG1] ([1] browsable assets)...
+[2024.05.27-23.33.26:052][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/BFG/BFG1]
+[2024.05.27-23.33.26:053][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/BFG/BFG1_Auto4
+[2024.05.27-23.33.26:053][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BFG1_Auto452DA392640AA6734084CDDA8FA822DFA.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/BFG/BFG1_Auto4.uasset'
+[2024.05.27-23.33.26:053][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/BFG/BFG2] ([1] browsable assets)...
+[2024.05.27-23.33.26:053][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/BFG/BFG2]
+[2024.05.27-23.33.26:054][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/BFG/BFG2_Auto4
+[2024.05.27-23.33.26:054][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BFG2_Auto446C5BBF946C9036361E30D98726A6E30.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/BFG/BFG2_Auto4.uasset'
+[2024.05.27-23.33.26:055][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/BFG/BFG3] ([1] browsable assets)...
+[2024.05.27-23.33.26:055][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/BFG/BFG3]
+[2024.05.27-23.33.26:056][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/BFG/BFG3_Auto4
+[2024.05.27-23.33.26:056][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BFG3_Auto4187385714F01A404193BC78ED6271CDC.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/BFG/BFG3_Auto4.uasset'
+[2024.05.27-23.33.26:056][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/BFG/BFG4] ([1] browsable assets)...
+[2024.05.27-23.33.26:056][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/BFG/BFG4]
+[2024.05.27-23.33.26:057][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/BFG/BFG4_Auto4
+[2024.05.27-23.33.26:057][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BFG4_Auto46EE189274FDC76E78C36BA977D14840D.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/BFG/BFG4_Auto4.uasset'
+[2024.05.27-23.33.26:058][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/BFG/BFGBEAM1] ([1] browsable assets)...
+[2024.05.27-23.33.26:058][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/BFG/BFGBEAM1]
+[2024.05.27-23.33.26:059][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/BFG/BFGBEAM1_Auto4
+[2024.05.27-23.33.26:059][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BFGBEAM1_Auto4D7AE60C6454CA3DD969A20A2DAC24C9F.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/BFG/BFGBEAM1_Auto4.uasset'
+[2024.05.27-23.33.26:059][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/BFG/BFGBEAM2] ([1] browsable assets)...
+[2024.05.27-23.33.26:059][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/BFG/BFGBEAM2]
+[2024.05.27-23.33.26:060][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/BFG/BFGBEAM2_Auto4
+[2024.05.27-23.33.26:060][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BFGBEAM2_Auto409BCD78940025C31CFEB42B4B1268730.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/BFG/BFGBEAM2_Auto4.uasset'
+[2024.05.27-23.33.26:061][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/Fire/Fireball] ([1] browsable assets)...
+[2024.05.27-23.33.26:061][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/Fire/Fireball]
+[2024.05.27-23.33.26:062][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/Fire/Fireball_Auto4
+[2024.05.27-23.33.26:062][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Fireball_Auto433206B304272C77667FD0C9986AD0E22.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/Fire/Fireball_Auto4.uasset'
+[2024.05.27-23.33.26:063][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/Plasma/bal2c0] ([1] browsable assets)...
+[2024.05.27-23.33.26:063][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/Plasma/bal2c0]
+[2024.05.27-23.33.26:064][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/Plasma/bal2c0_Auto4
+[2024.05.27-23.33.26:064][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/bal2c0_Auto44DED91544F59750E8B69929F1786A67B.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/Plasma/bal2c0_Auto4.uasset'
+[2024.05.27-23.33.26:064][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/Plasma/bal2d0] ([1] browsable assets)...
+[2024.05.27-23.33.26:064][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/Plasma/bal2d0]
+[2024.05.27-23.33.26:065][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/Plasma/bal2d0_Auto4
+[2024.05.27-23.33.26:065][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/bal2d0_Auto42A707EE24597AD9D27FAF0A7A90E0726.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/Plasma/bal2d0_Auto4.uasset'
+[2024.05.27-23.33.26:066][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/Plasma/bal2e0] ([1] browsable assets)...
+[2024.05.27-23.33.26:066][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/Plasma/bal2e0]
+[2024.05.27-23.33.26:067][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/Plasma/bal2e0_Auto4
+[2024.05.27-23.33.26:067][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/bal2e0_Auto401DC75874D31B787FF370086DCBEB7E6.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/Plasma/bal2e0_Auto4.uasset'
+[2024.05.27-23.33.26:067][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/Plasma/plsea0] ([1] browsable assets)...
+[2024.05.27-23.33.26:067][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/Plasma/plsea0]
+[2024.05.27-23.33.26:068][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/Plasma/plsea0_Auto4
+[2024.05.27-23.33.26:068][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/plsea0_Auto4D09AE6FF4170C26BE3DCCDA3AF33DC7F.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/Plasma/plsea0_Auto4.uasset'
+[2024.05.27-23.33.26:069][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/Plasma/plseb0] ([1] browsable assets)...
+[2024.05.27-23.33.26:069][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/Plasma/plseb0]
+[2024.05.27-23.33.26:070][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/Plasma/plseb0_Auto4
+[2024.05.27-23.33.26:070][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/plseb0_Auto42DA1C3F7423E5F90377723AC529C76E6.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/Plasma/plseb0_Auto4.uasset'
+[2024.05.27-23.33.26:070][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/Rocket/Explosion] ([1] browsable assets)...
+[2024.05.27-23.33.26:070][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/Rocket/Explosion]
+[2024.05.27-23.33.26:071][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/Rocket/Explosion_Auto4
+[2024.05.27-23.33.26:071][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Explosion_Auto4A0A86CC34CAE6D24DA3663A9E78EC492.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/Rocket/Explosion_Auto4.uasset'
+[2024.05.27-23.33.26:072][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/Rocket/misla1] ([1] browsable assets)...
+[2024.05.27-23.33.26:072][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/Rocket/misla1]
+[2024.05.27-23.33.26:073][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/Rocket/misla1_Auto4
+[2024.05.27-23.33.26:073][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/misla1_Auto466FDCFE641A02477263604948B2296A2.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/Rocket/misla1_Auto4.uasset'
+[2024.05.27-23.33.26:073][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/Rocket/misla2] ([1] browsable assets)...
+[2024.05.27-23.33.26:073][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/Rocket/misla2]
+[2024.05.27-23.33.26:074][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/Rocket/misla2_Auto4
+[2024.05.27-23.33.26:074][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/misla2_Auto45105BE714EEE2BB74ECFEEB7343B9C89.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/Rocket/misla2_Auto4.uasset'
+[2024.05.27-23.33.26:075][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/Plasma/bal2c0_Sprite] ([1] browsable assets)...
+[2024.05.27-23.33.26:075][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/Plasma/bal2c0_Sprite]
+[2024.05.27-23.33.26:076][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/Plasma/bal2c0_Sprite_Auto4
+[2024.05.27-23.33.26:076][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/bal2c0_Sprite_Auto4C08CAAA34A56389799F1088396AD92C7.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/Plasma/bal2c0_Sprite_Auto4.uasset'
+[2024.05.27-23.33.26:076][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/Plasma/bal2d0_Sprite] ([1] browsable assets)...
+[2024.05.27-23.33.26:076][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/Plasma/bal2d0_Sprite]
+[2024.05.27-23.33.26:077][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/Plasma/bal2d0_Sprite_Auto4
+[2024.05.27-23.33.26:077][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/bal2d0_Sprite_Auto4FD8E44D448B023B38CCCD7AA5B056B97.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/Plasma/bal2d0_Sprite_Auto4.uasset'
+[2024.05.27-23.33.26:078][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/Plasma/bal2e0_Sprite] ([1] browsable assets)...
+[2024.05.27-23.33.26:078][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/Plasma/bal2e0_Sprite]
+[2024.05.27-23.33.26:079][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/Plasma/bal2e0_Sprite_Auto4
+[2024.05.27-23.33.26:079][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/bal2e0_Sprite_Auto4ADB5AC894C36F363E0C27CAF679FEAC3.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/Plasma/bal2e0_Sprite_Auto4.uasset'
+[2024.05.27-23.33.26:080][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/Plasma/plsea0_Sprite] ([1] browsable assets)...
+[2024.05.27-23.33.26:080][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/Plasma/plsea0_Sprite]
+[2024.05.27-23.33.26:081][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/Plasma/plsea0_Sprite_Auto4
+[2024.05.27-23.33.26:081][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/plsea0_Sprite_Auto4323D52134A40AC51EA6728AC4B5A3D51.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/Plasma/plsea0_Sprite_Auto4.uasset'
+[2024.05.27-23.33.26:081][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Projectiles/Plasma/plseb0_Sprite] ([1] browsable assets)...
+[2024.05.27-23.33.26:081][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Projectiles/Plasma/plseb0_Sprite]
+[2024.05.27-23.33.26:082][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Projectiles/Plasma/plseb0_Sprite_Auto4
+[2024.05.27-23.33.26:082][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/plseb0_Sprite_Auto491AE2BA6480F90F933F641B2B021FB47.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Projectiles/Plasma/plseb0_Sprite_Auto4.uasset'
+[2024.05.27-23.33.26:083][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Projectiles/BP_Projectile] ([2] browsable assets)...
+[2024.05.27-23.33.26:083][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectiles/BP_Projectile]
+[2024.05.27-23.33.26:089][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Projectiles/BP_Projectile_Auto4
+[2024.05.27-23.33.26:089][310]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_Projectile_Auto4C147275B450BB37D8F6FF281DE4CDAC5.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Blueprints/Projectiles/BP_Projectile_Auto4.uasset'
+[2024.05.27-23.33.26:089][310]LogFileHelpers: Auto-saving content packages took 0.052
+[2024.05.27-23.34.00:405][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.27-23.34.01:394][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-23.34.01:416][401]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Projectiles/BP_Projectile] ([2] browsable assets)...
+[2024.05.27-23.34.01:416][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectiles/BP_Projectile]
+[2024.05.27-23.34.01:422][401]LogSavePackage: Moving output files for package: /Game/Blueprints/Projectiles/BP_Projectile
+[2024.05.27-23.34.01:423][401]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_ProjectileD25935D4423811898DCB719A3893192D.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/Projectiles/BP_Projectile.uasset'
+[2024.05.27-23.34.01:428][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.180 ms (total: 1.01 sec)
+[2024.05.27-23.34.01:454][401]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.27-23.34.01:454][401]LogContentValidation: Enabled validators:
+[2024.05.27-23.34.01:454][401]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.27-23.34.01:454][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.27-23.34.01:454][401]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.27-23.34.01:454][401]LogContentValidation: Display: Validating asset /Game/Blueprints/Projectiles/BP_Projectile.BP_Projectile
+[2024.05.27-23.34.01:455][401]AssetCheck: /Game/Blueprints/Projectiles/BP_Projectile Validating asset
+[2024.05.27-23.34.26:501][484]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.27-23.34.26:507][484]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.27-23.34.26:507][484]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.27-23.34.26:509][484]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1.941 ms (total: 9.159 ms)
+[2024.05.27-23.34.26:510][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.27-23.34.26:546][484]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-23.34.26:549][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003088s)
+[2024.05.27-23.34.26:549][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003122s)
+[2024.05.27-23.34.26:565][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.27-23.34.26:567][484]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.27-23.34.26:568][484]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.27-23.34.26:568][484]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-23.34.26:568][484]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.27-23.34.26:568][484]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.27-23.34.26:569][484]LogContentBundle: [FirstPersonMap(Standalone)] Creating new container.
+[2024.05.27-23.34.26:569][484]LogWorldPartition: Display: WorldPartition initialize took 1.307 ms (total: 49.035 ms)
+[2024.05.27-23.34.26:569][484]LogPlayLevel: PIE: World Init took: (0.002374s)
+[2024.05.27-23.34.26:576][484]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.27-23.34.26:576][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.27-23.34.26:576][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.27-23.34.26:576][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.27-23.34.26:576][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.27-23.34.26:576][484]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.27-23.34.26:576][484]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.27-23.34.26:576][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.27-23.34.26:576][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.27-23.34.26:576][484]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.27-23.34.26:576][484]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.27-23.34.26:576][484]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.27-23.34.26:578][484]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.27-23.34.26:601][484]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.05.27-23.34.26:601][484]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.27-23.34.26:601][484]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.27-23.34.26:601][484]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.27-23.34.26:603][484]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.27-23.34.26:603][484]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.05.27-23.34.26:604][484]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.27-23.34.26:604][484]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.27-23.34.26:604][484]LogInit: FAudioDevice initialized with ID 6.
+[2024.05.27-23.34.26:604][484]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2024.05.27-23.34.26:604][484]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.27-23.34.26:628][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-23.34.26:628][484]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.27-23.34.26:630][484]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.27-19.34.26
+[2024.05.27-23.34.26:630][484]LogWorld: Bringing up level for play took: 0.001656
+[2024.05.27-23.34.26:632][484]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.05.27-23.34.26:646][484]PIE: Server logged in
+[2024.05.27-23.34.26:648][484]PIE: Play in editor total start time 0.143 seconds.
+[2024.05.27-23.34.43:967][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-23.34.43:967][360]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-23.34.43:968][360]LogSlate: Window 'RetroFPSProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.27-23.34.43:972][360]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-23.34.43:973][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-23.34.43:973][360]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2024.05.27-23.34.43:973][360]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.05.27-23.34.43:973][360]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-23.34.43:973][360]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-23.34.43:975][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.27-23.34.43:980][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-23.34.43:997][360]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.27-23.34.43:997][360]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.27-23.34.43:998][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.27-23.34.43:999][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.27-23.34.44:005][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.27-23.34.44:063][361]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.05.27-23.34.59:655][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-23.34.59:687][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_PlasmaGun] ([2] browsable assets)...
+[2024.05.27-23.34.59:687][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_PlasmaGun]
+[2024.05.27-23.34.59:694][246]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_PlasmaGun
+[2024.05.27-23.34.59:694][246]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_PlasmaGun9140AC2C4A09370D96DAC1B6AE5475C2.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/Weapons/BP_PlasmaGun.uasset'
+[2024.05.27-23.34.59:700][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.626 ms (total: 1.06 sec)
+[2024.05.27-23.34.59:724][246]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.27-23.34.59:724][246]LogContentValidation: Enabled validators:
+[2024.05.27-23.34.59:724][246]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.27-23.34.59:724][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.27-23.34.59:724][246]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.27-23.34.59:724][246]LogContentValidation: Display: Validating asset /Game/Blueprints/Weapons/BP_PlasmaGun.BP_PlasmaGun
+[2024.05.27-23.34.59:724][246]AssetCheck: /Game/Blueprints/Weapons/BP_PlasmaGun Validating asset
+[2024.05.27-23.35.11:602][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-23.35.11:631][963]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_PlasmaGun] ([2] browsable assets)...
+[2024.05.27-23.35.11:631][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_PlasmaGun]
+[2024.05.27-23.35.11:638][963]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_PlasmaGun
+[2024.05.27-23.35.11:638][963]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_PlasmaGun7E36F5184F2FA97C3FE9F7B4AFB28A8D.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/Weapons/BP_PlasmaGun.uasset'
+[2024.05.27-23.35.11:644][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.753 ms (total: 1.10 sec)
+[2024.05.27-23.35.11:663][963]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.27-23.35.11:663][963]LogContentValidation: Enabled validators:
+[2024.05.27-23.35.11:663][963]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.27-23.35.11:663][963]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.27-23.35.11:663][963]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.27-23.35.11:663][963]LogContentValidation: Display: Validating asset /Game/Blueprints/Weapons/BP_PlasmaGun.BP_PlasmaGun
+[2024.05.27-23.35.11:663][963]AssetCheck: /Game/Blueprints/Weapons/BP_PlasmaGun Validating asset
+[2024.05.27-23.35.23:200][650]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.27-23.35.23:207][650]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.27-23.35.23:207][650]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.27-23.35.23:209][650]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1.836 ms (total: 10.996 ms)
+[2024.05.27-23.35.23:210][650]LogPlayLevel: [PlayLevel] Compiling BP_PlasmaGun before play...
+[2024.05.27-23.35.23:225][650]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_BP_PlasmaGun_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.05.27-23.35.23:235][650]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_BP_PlasmaGun_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.05.27-23.35.23:253][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.05.27-23.35.23:256][650]LogPlayLevel: PlayLevel: Blueprint regeneration took 46 ms (1 blueprints)
+[2024.05.27-23.35.23:256][650]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-23.35.23:259][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002853s)
+[2024.05.27-23.35.23:259][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.002879s)
+[2024.05.27-23.35.23:273][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.27-23.35.23:274][650]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.05.27-23.35.23:275][650]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.27-23.35.23:275][650]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-23.35.23:275][650]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.27-23.35.23:275][650]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.27-23.35.23:277][650]LogContentBundle: [FirstPersonMap(Standalone)] Creating new container.
+[2024.05.27-23.35.23:277][650]LogWorldPartition: Display: WorldPartition initialize took 1.249 ms (total: 50.284 ms)
+[2024.05.27-23.35.23:277][650]LogPlayLevel: PIE: World Init took: (0.002182s)
+[2024.05.27-23.35.23:284][650]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.05.27-23.35.23:284][650]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.27-23.35.23:284][650]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.27-23.35.23:284][650]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.27-23.35.23:284][650]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.27-23.35.23:284][650]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.27-23.35.23:284][650]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.27-23.35.23:284][650]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.27-23.35.23:284][650]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.27-23.35.23:284][650]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.27-23.35.23:284][650]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.27-23.35.23:284][650]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.27-23.35.23:286][650]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.27-23.35.23:309][650]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.05.27-23.35.23:309][650]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.27-23.35.23:309][650]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.27-23.35.23:309][650]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.27-23.35.23:311][650]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.05.27-23.35.23:311][650]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.05.27-23.35.23:312][650]LogInit: FAudioDevice initialized with ID 7.
+[2024.05.27-23.35.23:312][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.05.27-23.35.23:312][650]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2024.05.27-23.35.23:312][650]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.05.27-23.35.23:312][650]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.27-23.35.23:336][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-23.35.23:336][650]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.27-23.35.23:338][650]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.27-19.35.23
+[2024.05.27-23.35.23:338][650]LogWorld: Bringing up level for play took: 0.001604
+[2024.05.27-23.35.23:339][650]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.05.27-23.35.23:352][650]PIE: Server logged in
+[2024.05.27-23.35.23:353][650]PIE: Play in editor total start time 0.148 seconds.
+[2024.05.27-23.36.21:527][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-23.36.21:527][ 91]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.27-23.36.21:528][ 91]LogSlate: Window 'RetroFPSProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.27-23.36.21:533][ 91]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-23.36.21:533][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-23.36.21:533][ 91]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2024.05.27-23.36.21:533][ 91]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.05.27-23.36.21:534][ 91]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.27-23.36.21:534][ 91]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.27-23.36.21:535][ 91]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.27-23.36.21:540][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-23.36.21:557][ 91]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.27-23.36.21:557][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.27-23.36.21:559][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.27-23.36.21:566][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.05.27-23.36.21:623][ 92]LogPlayLevel: Display: Destroying online subsystem :Context_17

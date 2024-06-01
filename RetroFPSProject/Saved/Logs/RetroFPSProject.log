@@ -2583,3 +2583,281 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.01-15.49.13:659][ 72]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.06.01-15.49.13:659][ 72]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
 [2024.06.01-15.49.13:659][ 72]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-15.49.53:596][326]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.06.01-15.49.53:602][326]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.06.01-15.49.53:602][326]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.06.01-15.49.53:604][326]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.009 ms (total: 27.436 ms)
+[2024.06.01-15.49.53:605][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.01-15.49.53:627][326]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.01-15.49.53:631][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004170s)
+[2024.06.01-15.49.53:632][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004201s)
+[2024.06.01-15.49.53:649][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.06.01-15.49.53:655][326]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.01-15.49.53:656][326]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.01-15.49.53:656][326]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.01-15.49.53:656][326]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.01-15.49.53:656][326]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.01-15.49.53:657][326]LogContentBundle: [FirstPersonMap(Standalone)] Creating new container.
+[2024.06.01-15.49.53:657][326]LogWorldPartition: Display: WorldPartition initialize took 1.465 ms (total: 1.01 sec)
+[2024.06.01-15.49.53:657][326]LogPlayLevel: PIE: World Init took: (0.002473s)
+[2024.06.01-15.49.53:664][326]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.06.01-15.49.53:664][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.01-15.49.53:664][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.01-15.49.53:664][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.01-15.49.53:664][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.01-15.49.53:664][326]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.01-15.49.53:664][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.01-15.49.53:664][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.01-15.49.53:664][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.01-15.49.53:664][326]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.01-15.49.53:664][326]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.01-15.49.53:664][326]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.01-15.49.53:665][326]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.01-15.49.53:688][326]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.01-15.49.53:688][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.01-15.49.53:688][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.01-15.49.53:688][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.01-15.49.53:689][326]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.06.01-15.49.53:689][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.06.01-15.49.53:690][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.06.01-15.49.53:690][326]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.06.01-15.49.53:690][326]LogInit: FAudioDevice initialized with ID 14.
+[2024.06.01-15.49.53:690][326]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonMap'.
+[2024.06.01-15.49.53:690][326]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.06.01-15.49.53:713][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-15.49.53:713][326]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.01-15.49.53:715][326]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.06.01-11.49.53
+[2024.06.01-15.49.53:716][326]LogWorld: Bringing up level for play took: 0.002622
+[2024.06.01-15.49.53:717][326]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.06.01-15.49.53:738][326]PIE: Server logged in
+[2024.06.01-15.49.53:747][326]PIE: Play in editor total start time 0.145 seconds.
+[2024.06.01-15.50.18:139][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-15.50.18:139][348]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.01-15.50.18:140][348]LogSlate: Window 'RetroFPSProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.01-15.50.18:144][348]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-15.50.18:144][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-15.50.18:145][348]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2024.06.01-15.50.18:145][348]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.06.01-15.50.18:145][348]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.01-15.50.18:145][348]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.01-15.50.18:147][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.01-15.50.18:151][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-15.50.18:170][348]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-15.50.18:170][348]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.06.01-15.50.18:170][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.06.01-15.50.18:171][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.06.01-15.50.18:177][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.06.01-15.50.18:212][349]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.06.01-15.51.45:576][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.06.01-15.51.46:099][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-15.51.46:121][791]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.06.01-15.51.46:121][791]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.06.01-15.51.46:161][791]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.06.01-15.51.46:162][791]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_FirstPersonCharacterDD7E08FB430DB2DDA9E8B28CC3AB2CBF.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.06.01-15.51.46:169][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.800 ms (total: 3.38 sec)
+[2024.06.01-15.51.46:193][791]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-15.51.46:193][791]LogContentValidation: Enabled validators:
+[2024.06.01-15.51.46:193][791]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-15.51.46:193][791]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-15.51.46:193][791]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-15.51.46:193][791]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.06.01-15.51.46:193][791]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2024.06.01-15.51.57:614][866]LogEditorTransaction: Undo Add Node
+[2024.06.01-15.52.22:015][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-15.52.22:031][ 63]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.06.01-15.52.22:031][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.06.01-15.52.22:072][ 63]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.06.01-15.52.22:073][ 63]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_FirstPersonCharacterF8F23DED4D110EBBFFE423B244526A9D.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.06.01-15.52.22:079][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.159 ms (total: 3.44 sec)
+[2024.06.01-15.52.22:102][ 63]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-15.52.22:102][ 63]LogContentValidation: Enabled validators:
+[2024.06.01-15.52.22:102][ 63]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-15.52.22:102][ 63]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-15.52.22:102][ 63]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-15.52.22:102][ 63]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.06.01-15.52.22:102][ 63]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2024.06.01-15.52.32:327][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-15.52.32:352][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.06.01-15.52.32:353][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.06.01-15.52.32:393][ 33]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.06.01-15.52.32:394][ 33]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_FirstPersonCharacter1B183D734AC453BB5B53E0B537EE08D4.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.06.01-15.52.32:400][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.707 ms (total: 3.52 sec)
+[2024.06.01-15.52.32:424][ 33]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-15.52.32:424][ 33]LogContentValidation: Enabled validators:
+[2024.06.01-15.52.32:424][ 33]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-15.52.32:424][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-15.52.32:424][ 33]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-15.52.32:424][ 33]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.06.01-15.52.32:424][ 33]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2024.06.01-15.52.36:170][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-15.52.36:192][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.06.01-15.52.36:192][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.06.01-15.52.36:233][344]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.06.01-15.52.36:234][344]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_FirstPersonCharacterB05D51264CC10004328034A770FC5812.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.06.01-15.52.36:241][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.989 ms (total: 3.59 sec)
+[2024.06.01-15.52.36:263][344]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-15.52.36:263][344]LogContentValidation: Enabled validators:
+[2024.06.01-15.52.36:263][344]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-15.52.36:263][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-15.52.36:263][344]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-15.52.36:263][344]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.06.01-15.52.36:264][344]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2024.06.01-15.52.36:928][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.06.01-15.53.02:104][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-15.53.02:130][575]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.06.01-15.53.02:130][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.06.01-15.53.02:172][575]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.06.01-15.53.02:172][575]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_FirstPersonCharacter6F21EDA249B8E84609E24DB228048602.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.06.01-15.53.02:179][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.001 ms (total: 3.66 sec)
+[2024.06.01-15.53.02:201][575]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-15.53.02:201][575]LogContentValidation: Enabled validators:
+[2024.06.01-15.53.02:201][575]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-15.53.02:201][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-15.53.02:201][575]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-15.53.02:201][575]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.06.01-15.53.02:201][575]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2024.06.01-15.53.02:955][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.06.01-15.53.03:445][646]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-15.53.03:468][646]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.06.01-15.53.03:468][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.06.01-15.53.03:509][646]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.06.01-15.53.03:509][646]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_FirstPersonCharacterB4D27954472CE0283A9767A999752622.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.06.01-15.53.03:516][646]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.330 ms (total: 3.73 sec)
+[2024.06.01-15.53.03:540][646]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-15.53.03:540][646]LogContentValidation: Enabled validators:
+[2024.06.01-15.53.03:540][646]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-15.53.03:540][646]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-15.53.03:540][646]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-15.53.03:540][646]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.06.01-15.53.03:540][646]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2024.06.01-15.53.30:582][798]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.06.01-15.53.30:587][798]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.06.01-15.53.30:592][798]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.06.01-15.53.30:606][799]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.06.01-15.53.34:948][301]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> PlayerDamageHUD
+[2024.06.01-15.53.34:954][301]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.06.01-15.53.53:840][629]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/PlayerDamageHUD.PlayerDamageHUD
+[2024.06.01-15.54.51:208][286]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.01-15.54.52:929][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-15.54.52:959][461]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/PlayerDamageHUD] ([2] browsable assets)...
+[2024.06.01-15.54.52:961][461]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/PlayerDamageHUD.PlayerDamageHUD]
+[2024.06.01-15.54.52:961][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/PlayerDamageHUD]
+[2024.06.01-15.54.52:964][461]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/PlayerDamageHUD
+[2024.06.01-15.54.52:964][461]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/PlayerDamageHUDBA5E7A064B02DF11CFCF7083D4AED58F.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/UI/PlayerDamageHUD.uasset'
+[2024.06.01-15.54.52:972][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.225 ms (total: 3.78 sec)
+[2024.06.01-15.54.52:991][461]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-15.54.52:991][461]LogContentValidation: Enabled validators:
+[2024.06.01-15.54.52:991][461]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-15.54.52:991][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-15.54.52:991][461]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-15.54.52:991][461]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/PlayerDamageHUD.PlayerDamageHUD
+[2024.06.01-15.54.52:992][461]AssetCheck: /Game/Blueprints/UI/PlayerDamageHUD Validating asset
+[2024.06.01-15.54.54:690][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.06.01-15.54.55:421][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-15.54.55:442][725]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/PlayerDamageHUD] ([2] browsable assets)...
+[2024.06.01-15.54.55:443][725]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/PlayerDamageHUD.PlayerDamageHUD]
+[2024.06.01-15.54.55:443][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/PlayerDamageHUD]
+[2024.06.01-15.54.55:446][725]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/PlayerDamageHUD
+[2024.06.01-15.54.55:446][725]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/PlayerDamageHUD1430EE954F12007C984B9CB8C06B8B36.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/UI/PlayerDamageHUD.uasset'
+[2024.06.01-15.54.55:452][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.142 ms (total: 3.81 sec)
+[2024.06.01-15.54.55:474][725]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-15.54.55:474][725]LogContentValidation: Enabled validators:
+[2024.06.01-15.54.55:474][725]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-15.54.55:474][725]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-15.54.55:474][725]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-15.54.55:474][725]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/PlayerDamageHUD.PlayerDamageHUD
+[2024.06.01-15.54.55:474][725]AssetCheck: /Game/Blueprints/UI/PlayerDamageHUD Validating asset
+[2024.06.01-15.55.12:529][555]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-15.55.12:559][555]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/PlayerDamageHUD] ([2] browsable assets)...
+[2024.06.01-15.55.12:560][555]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/PlayerDamageHUD.PlayerDamageHUD]
+[2024.06.01-15.55.12:560][555]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/PlayerDamageHUD]
+[2024.06.01-15.55.12:563][555]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/PlayerDamageHUD
+[2024.06.01-15.55.12:564][555]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/PlayerDamageHUD18191F694B8E662E4BF601AA1C5E5DC1.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/UI/PlayerDamageHUD.uasset'
+[2024.06.01-15.55.12:570][555]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.398 ms (total: 3.85 sec)
+[2024.06.01-15.55.12:585][555]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-15.55.12:585][555]LogContentValidation: Enabled validators:
+[2024.06.01-15.55.12:585][555]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-15.55.12:585][555]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-15.55.12:585][555]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-15.55.12:585][555]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/PlayerDamageHUD.PlayerDamageHUD
+[2024.06.01-15.55.12:585][555]AssetCheck: /Game/Blueprints/UI/PlayerDamageHUD Validating asset
+[2024.06.01-15.55.14:059][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.06.01-15.55.50:134][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-15.55.50:152][101]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.06.01-15.55.50:152][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.06.01-15.55.50:195][101]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.06.01-15.55.50:196][101]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_FirstPersonCharacterBA1570CD4A61F8F43F1CBE84E6BE7D17.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.06.01-15.55.50:203][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.981 ms (total: 3.92 sec)
+[2024.06.01-15.55.50:228][101]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-15.55.50:228][101]LogContentValidation: Enabled validators:
+[2024.06.01-15.55.50:228][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-15.55.50:228][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-15.55.50:228][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-15.55.50:228][101]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.06.01-15.55.50:228][101]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2024.06.01-15.56.02:431][254]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.06.01-15.56.02:439][254]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.06.01-15.56.02:439][254]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.06.01-15.56.02:442][254]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.100 ms (total: 29.536 ms)
+[2024.06.01-15.56.02:449][254]LogPlayLevel: [PlayLevel] Compiling BP_FirstPersonCharacter before play...
+[2024.06.01-15.56.02:637][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.06.01-15.56.02:641][254]LogPlayLevel: PlayLevel: Blueprint regeneration took 198 ms (1 blueprints)
+[2024.06.01-15.56.02:641][254]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.01-15.56.02:645][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003878s)
+[2024.06.01-15.56.02:645][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003904s)
+[2024.06.01-15.56.02:661][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.06.01-15.56.02:663][254]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.01-15.56.02:664][254]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.01-15.56.02:664][254]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.01-15.56.02:664][254]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.01-15.56.02:664][254]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.01-15.56.02:665][254]LogContentBundle: [FirstPersonMap(Standalone)] Creating new container.
+[2024.06.01-15.56.02:665][254]LogWorldPartition: Display: WorldPartition initialize took 1.566 ms (total: 1.01 sec)
+[2024.06.01-15.56.02:665][254]LogPlayLevel: PIE: World Init took: (0.002571s)
+[2024.06.01-15.56.02:672][254]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.06.01-15.56.02:672][254]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.01-15.56.02:672][254]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.01-15.56.02:672][254]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.01-15.56.02:672][254]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.01-15.56.02:672][254]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.01-15.56.02:672][254]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.01-15.56.02:672][254]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.01-15.56.02:672][254]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.01-15.56.02:672][254]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.01-15.56.02:672][254]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.01-15.56.02:672][254]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.01-15.56.02:673][254]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.01-15.56.02:696][254]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.01-15.56.02:696][254]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.01-15.56.02:696][254]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.01-15.56.02:696][254]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.01-15.56.02:696][254]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.06.01-15.56.02:696][254]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.06.01-15.56.02:697][254]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.06.01-15.56.02:697][254]LogInit: FAudioDevice initialized with ID 15.
+[2024.06.01-15.56.02:697][254]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.06.01-15.56.02:697][254]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonMap'.
+[2024.06.01-15.56.02:697][254]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.06.01-15.56.02:718][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-15.56.02:718][254]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.01-15.56.02:720][254]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.06.01-11.56.02
+[2024.06.01-15.56.02:721][254]LogWorld: Bringing up level for play took: 0.002607
+[2024.06.01-15.56.02:723][254]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.06.01-15.56.02:735][254]PIE: Server logged in
+[2024.06.01-15.56.02:737][254]PIE: Play in editor total start time 0.3 seconds.
+[2024.06.01-15.56.22:091][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-15.56.22:091][874]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.01-15.56.22:092][874]LogSlate: Window 'RetroFPSProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.01-15.56.22:096][874]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-15.56.22:097][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-15.56.22:097][874]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2024.06.01-15.56.22:097][874]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.06.01-15.56.22:097][874]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.01-15.56.22:097][874]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.01-15.56.22:099][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.01-15.56.22:104][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-15.56.22:123][874]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.06.01-15.56.22:123][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.06.01-15.56.22:124][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.06.01-15.56.22:130][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.06.01-15.56.22:165][875]LogPlayLevel: Display: Destroying online subsystem :Context_24

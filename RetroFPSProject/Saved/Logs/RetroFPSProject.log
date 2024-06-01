@@ -2149,3 +2149,576 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.01-00.47.18:672][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
 [2024.06.01-00.47.18:679][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
 [2024.06.01-00.47.18:717][275]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.06.01-00.49.48:037][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-00.49.48:061][234]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BaseEnemy_BP] ([2] browsable assets)...
+[2024.06.01-00.49.48:061][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BaseEnemy_BP]
+[2024.06.01-00.49.48:061][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BaseEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset" SILENT=true
+[2024.06.01-00.49.48:093][234]LogSavePackage: Moving output files for package: /Game/Enemies/BaseEnemy_BP
+[2024.06.01-00.49.48:094][234]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BaseEnemy_BP438000BA47D3DC19FD883F8CC8FC02DC.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset'
+[2024.06.01-00.49.48:102][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.758 ms (total: 802.657 ms)
+[2024.06.01-00.49.48:123][234]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-00.49.48:123][234]LogContentValidation: Enabled validators:
+[2024.06.01-00.49.48:123][234]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-00.49.48:123][234]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-00.49.48:123][234]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-00.49.48:123][234]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
+[2024.06.01-00.49.48:123][234]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-00.50.03:882][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-00.50.03:900][170]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BaseEnemy_BP] ([2] browsable assets)...
+[2024.06.01-00.50.03:900][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BaseEnemy_BP]
+[2024.06.01-00.50.03:900][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BaseEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset" SILENT=true
+[2024.06.01-00.50.03:931][170]LogSavePackage: Moving output files for package: /Game/Enemies/BaseEnemy_BP
+[2024.06.01-00.50.03:932][170]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BaseEnemy_BPC89EE8A9441FBD34FEF8DC8142528A3C.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset'
+[2024.06.01-00.50.03:938][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.575 ms (total: 859.232 ms)
+[2024.06.01-00.50.03:960][170]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-00.50.03:960][170]LogContentValidation: Enabled validators:
+[2024.06.01-00.50.03:960][170]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-00.50.03:960][170]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-00.50.03:960][170]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-00.50.03:960][170]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
+[2024.06.01-00.50.03:960][170]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-00.50.21:654][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-00.50.21:677][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BaseEnemy_BP] ([2] browsable assets)...
+[2024.06.01-00.50.21:677][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BaseEnemy_BP]
+[2024.06.01-00.50.21:677][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BaseEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset" SILENT=true
+[2024.06.01-00.50.21:708][712]LogSavePackage: Moving output files for package: /Game/Enemies/BaseEnemy_BP
+[2024.06.01-00.50.21:709][712]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BaseEnemy_BPB614CEF44A45075ED971A1911F2412DD.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset'
+[2024.06.01-00.50.21:715][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.974 ms (total: 920.207 ms)
+[2024.06.01-00.50.21:737][712]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-00.50.21:737][712]LogContentValidation: Enabled validators:
+[2024.06.01-00.50.21:737][712]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-00.50.21:737][712]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-00.50.21:737][712]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-00.50.21:737][712]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
+[2024.06.01-00.50.21:737][712]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-00.51.12:849][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-00.51.12:870][634]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BaseEnemy_BP] ([2] browsable assets)...
+[2024.06.01-00.51.12:870][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BaseEnemy_BP]
+[2024.06.01-00.51.12:870][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BaseEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset" SILENT=true
+[2024.06.01-00.51.12:902][634]LogSavePackage: Moving output files for package: /Game/Enemies/BaseEnemy_BP
+[2024.06.01-00.51.12:903][634]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BaseEnemy_BP169AD43C45A4050DAED98380BF900E01.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset'
+[2024.06.01-00.51.12:910][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.253 ms (total: 980.460 ms)
+[2024.06.01-00.51.12:936][634]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-00.51.12:936][634]LogContentValidation: Enabled validators:
+[2024.06.01-00.51.12:936][634]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-00.51.12:936][634]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-00.51.12:936][634]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-00.51.12:936][634]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
+[2024.06.01-00.51.12:936][634]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-00.51.17:705][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-00.51.17:732][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BaseEnemy_BP] ([2] browsable assets)...
+[2024.06.01-00.51.17:732][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BaseEnemy_BP]
+[2024.06.01-00.51.17:732][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BaseEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset" SILENT=true
+[2024.06.01-00.51.17:764][ 55]LogSavePackage: Moving output files for package: /Game/Enemies/BaseEnemy_BP
+[2024.06.01-00.51.17:764][ 55]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BaseEnemy_BP5B119DE346BA13EC71E04B801E609B88.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset'
+[2024.06.01-00.51.17:771][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.617 ms (total: 1.04 sec)
+[2024.06.01-00.51.17:796][ 55]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-00.51.17:796][ 55]LogContentValidation: Enabled validators:
+[2024.06.01-00.51.17:796][ 55]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-00.51.17:796][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-00.51.17:796][ 55]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-00.51.17:796][ 55]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
+[2024.06.01-00.51.17:797][ 55]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-00.51.56:361][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-00.51.56:384][376]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BaseEnemy_BP] ([2] browsable assets)...
+[2024.06.01-00.51.56:384][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BaseEnemy_BP]
+[2024.06.01-00.51.56:384][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BaseEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset" SILENT=true
+[2024.06.01-00.51.56:416][376]LogSavePackage: Moving output files for package: /Game/Enemies/BaseEnemy_BP
+[2024.06.01-00.51.56:417][376]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BaseEnemy_BP3C2837BA40934ABE2702C698C3D03624.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset'
+[2024.06.01-00.51.56:424][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.216 ms (total: 1.10 sec)
+[2024.06.01-00.51.56:445][376]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-00.51.56:445][376]LogContentValidation: Enabled validators:
+[2024.06.01-00.51.56:445][376]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-00.51.56:445][376]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-00.51.56:445][376]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-00.51.56:445][376]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
+[2024.06.01-00.51.56:445][376]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-00.53.18:884][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-00.53.18:904][167]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BaseEnemy_BP] ([2] browsable assets)...
+[2024.06.01-00.53.18:904][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BaseEnemy_BP]
+[2024.06.01-00.53.18:904][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BaseEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset" SILENT=true
+[2024.06.01-00.53.18:939][167]LogSavePackage: Moving output files for package: /Game/Enemies/BaseEnemy_BP
+[2024.06.01-00.53.18:939][167]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BaseEnemy_BP1D5B86EC4533E67A31EAA8B8F2ACC9EB.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset'
+[2024.06.01-00.53.18:946][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.130 ms (total: 1.17 sec)
+[2024.06.01-00.53.18:970][167]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-00.53.18:970][167]LogContentValidation: Enabled validators:
+[2024.06.01-00.53.18:971][167]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-00.53.18:971][167]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-00.53.18:971][167]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-00.53.18:971][167]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
+[2024.06.01-00.53.18:971][167]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-00.53.27:892][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-00.53.27:916][ 60]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BaseEnemy_BP] ([2] browsable assets)...
+[2024.06.01-00.53.27:916][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BaseEnemy_BP]
+[2024.06.01-00.53.27:916][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BaseEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset" SILENT=true
+[2024.06.01-00.53.27:950][ 60]LogSavePackage: Moving output files for package: /Game/Enemies/BaseEnemy_BP
+[2024.06.01-00.53.27:951][ 60]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BaseEnemy_BPF0E8CB8F4D7A82C49DDA06BE7720CFC8.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset'
+[2024.06.01-00.53.27:957][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.894 ms (total: 1.23 sec)
+[2024.06.01-00.53.27:981][ 60]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-00.53.27:981][ 60]LogContentValidation: Enabled validators:
+[2024.06.01-00.53.27:981][ 60]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-00.53.27:981][ 60]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-00.53.27:981][ 60]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-00.53.27:981][ 60]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
+[2024.06.01-00.53.27:981][ 60]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-00.53.56:422][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-00.53.56:447][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BaseEnemy_BP] ([2] browsable assets)...
+[2024.06.01-00.53.56:447][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BaseEnemy_BP]
+[2024.06.01-00.53.56:447][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BaseEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset" SILENT=true
+[2024.06.01-00.53.56:482][651]LogSavePackage: Moving output files for package: /Game/Enemies/BaseEnemy_BP
+[2024.06.01-00.53.56:483][651]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BaseEnemy_BP4688086742AE395F14C585BEDCD1B835.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset'
+[2024.06.01-00.53.56:489][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.133 ms (total: 1.30 sec)
+[2024.06.01-00.53.56:514][651]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-00.53.56:514][651]LogContentValidation: Enabled validators:
+[2024.06.01-00.53.56:514][651]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-00.53.56:514][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-00.53.56:514][651]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-00.53.56:514][651]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
+[2024.06.01-00.53.56:514][651]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-00.54.21:360][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-00.54.21:385][627]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BaseEnemy_BP] ([2] browsable assets)...
+[2024.06.01-00.54.21:385][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BaseEnemy_BP]
+[2024.06.01-00.54.21:385][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BaseEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset" SILENT=true
+[2024.06.01-00.54.21:419][627]LogSavePackage: Moving output files for package: /Game/Enemies/BaseEnemy_BP
+[2024.06.01-00.54.21:420][627]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BaseEnemy_BPE58D0EC24B5E5199024C7FB0F17C81A6.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset'
+[2024.06.01-00.54.21:426][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.979 ms (total: 1.36 sec)
+[2024.06.01-00.54.21:452][627]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-00.54.21:452][627]LogContentValidation: Enabled validators:
+[2024.06.01-00.54.21:452][627]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-00.54.21:452][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-00.54.21:452][627]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-00.54.21:452][627]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
+[2024.06.01-00.54.21:452][627]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-00.54.28:795][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.06.01-00.54.29:784][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-00.54.29:807][500]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BaseEnemy_BP] ([2] browsable assets)...
+[2024.06.01-00.54.29:807][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BaseEnemy_BP]
+[2024.06.01-00.54.29:807][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BaseEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset" SILENT=true
+[2024.06.01-00.54.29:842][500]LogSavePackage: Moving output files for package: /Game/Enemies/BaseEnemy_BP
+[2024.06.01-00.54.29:842][500]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BaseEnemy_BPA225BF4044175F81ADA7E8A1E67A909B.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset'
+[2024.06.01-00.54.29:849][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.157 ms (total: 1.43 sec)
+[2024.06.01-00.54.29:867][500]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-00.54.29:867][500]LogContentValidation: Enabled validators:
+[2024.06.01-00.54.29:867][500]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-00.54.29:867][500]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-00.54.29:867][500]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-00.54.29:867][500]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
+[2024.06.01-00.54.29:867][500]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-00.55.07:810][834]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.06.01-00.55.07:817][834]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.06.01-00.55.07:817][834]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.06.01-00.55.07:819][834]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1.974 ms (total: 8.499 ms)
+[2024.06.01-00.55.07:823][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.01-00.55.07:846][834]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.01-00.55.07:851][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004463s)
+[2024.06.01-00.55.07:851][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004498s)
+[2024.06.01-00.55.07:868][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.06.01-00.55.07:875][834]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.01-00.55.07:876][834]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.01-00.55.07:876][834]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.01-00.55.07:876][834]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.01-00.55.07:876][834]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.01-00.55.07:877][834]LogContentBundle: [FirstPersonMap(Standalone)] Creating new container.
+[2024.06.01-00.55.07:878][834]LogWorldPartition: Display: WorldPartition initialize took 1.750 ms (total: 552.920 ms)
+[2024.06.01-00.55.07:878][834]LogPlayLevel: PIE: World Init took: (0.002884s)
+[2024.06.01-00.55.07:884][834]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.06.01-00.55.07:884][834]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.01-00.55.07:884][834]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.01-00.55.07:884][834]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.01-00.55.07:884][834]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.01-00.55.07:884][834]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.01-00.55.07:884][834]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.01-00.55.07:884][834]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.01-00.55.07:884][834]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.01-00.55.07:884][834]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.01-00.55.07:884][834]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.01-00.55.07:884][834]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.01-00.55.07:886][834]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.01-00.55.07:910][834]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.01-00.55.07:910][834]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.01-00.55.07:910][834]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.01-00.55.07:910][834]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.01-00.55.07:910][834]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.06.01-00.55.07:910][834]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.06.01-00.55.07:911][834]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.06.01-00.55.07:911][834]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.06.01-00.55.07:911][834]LogInit: FAudioDevice initialized with ID 5.
+[2024.06.01-00.55.07:911][834]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2024.06.01-00.55.07:911][834]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.06.01-00.55.07:933][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-00.55.07:933][834]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.01-00.55.07:936][834]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.31-20.55.07
+[2024.06.01-00.55.07:936][834]LogWorld: Bringing up level for play took: 0.002742
+[2024.06.01-00.55.07:938][834]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.06.01-00.55.07:957][834]PIE: Server logged in
+[2024.06.01-00.55.07:965][834]PIE: Play in editor total start time 0.151 seconds.
+[2024.06.01-00.55.08:221][849]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.08:664][900]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.09:191][960]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.09:754][ 25]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.10:163][ 72]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.10:567][119]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.11:151][186]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.11:590][235]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.12:152][300]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.12:678][360]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.13:159][415]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.13:692][476]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.14:236][539]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.14:691][593]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.15:263][660]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.15:773][720]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.16:199][769]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.16:662][823]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.17:167][882]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.17:696][944]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.18:293][ 13]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.18:858][ 78]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.19:370][137]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.19:910][196]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.20:494][261]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.20:940][311]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.21:425][364]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.21:969][421]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.22:380][465]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.22:799][511]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.23:384][576]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.23:837][625]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.24:407][688]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.24:880][740]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.25:377][795]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.25:918][855]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.26:334][902]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.26:773][952]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.27:291][  9]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.27:844][ 69]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.28:326][122]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.28:821][176]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.29:385][237]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.29:906][294]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.30:386][346]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.30:977][412]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.31:447][464]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.31:989][525]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.32:442][576]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.32:991][637]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.33:571][703]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.34:055][756]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.34:465][801]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.34:957][855]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.35:490][914]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.36:068][978]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.36:604][ 35]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.37:202][101]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.37:639][150]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.38:237][217]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.38:766][276]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.39:192][323]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.39:722][381]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.40:313][447]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.40:828][504]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.41:323][559]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.41:878][621]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.42:411][681]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.42:873][733]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.43:424][796]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.43:835][843]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.44:333][899]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.44:881][962]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.45:407][ 22]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.45:840][ 72]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.46:362][133]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.55.46:900][194]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.47:409][250]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.47:973][311]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.48:509][369]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.55.48:811][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-00.55.48:811][397]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.01-00.55.48:811][397]LogSlate: Window 'RetroFPSProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.01-00.55.48:816][397]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-00.55.48:817][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-00.55.48:817][397]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2024.06.01-00.55.48:817][397]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.06.01-00.55.48:817][397]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.01-00.55.48:817][397]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.01-00.55.48:819][397]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.01-00.55.48:825][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-00.55.48:842][397]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.01-00.55.48:842][397]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.06.01-00.55.48:842][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.06.01-00.55.48:844][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.06.01-00.55.48:850][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.06.01-00.55.48:878][398]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.06.01-00.56.25:829][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-00.56.25:853][858]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BaseEnemy_BP] ([2] browsable assets)...
+[2024.06.01-00.56.25:853][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BaseEnemy_BP]
+[2024.06.01-00.56.25:853][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BaseEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset" SILENT=true
+[2024.06.01-00.56.25:888][858]LogSavePackage: Moving output files for package: /Game/Enemies/BaseEnemy_BP
+[2024.06.01-00.56.25:889][858]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BaseEnemy_BP000C8A9E485D2913943A148E7C888D20.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset'
+[2024.06.01-00.56.25:895][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.500 ms (total: 1.50 sec)
+[2024.06.01-00.56.25:919][858]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-00.56.25:919][858]LogContentValidation: Enabled validators:
+[2024.06.01-00.56.25:919][858]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-00.56.25:919][858]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-00.56.25:919][858]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-00.56.25:919][858]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
+[2024.06.01-00.56.25:919][858]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-00.56.28:223][ 65]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.06.01-00.56.28:229][ 65]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.06.01-00.56.28:229][ 65]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.06.01-00.56.28:231][ 65]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.032 ms (total: 10.532 ms)
+[2024.06.01-00.56.28:237][ 65]LogPlayLevel: [PlayLevel] Compiling BaseEnemy_BP before play...
+[2024.06.01-00.56.28:344][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.06.01-00.56.28:356][ 65]LogPlayLevel: PlayLevel: Blueprint regeneration took 121 ms (1 blueprints)
+[2024.06.01-00.56.28:356][ 65]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.01-00.56.28:360][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003867s)
+[2024.06.01-00.56.28:360][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003901s)
+[2024.06.01-00.56.28:374][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.06.01-00.56.28:375][ 65]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.01-00.56.28:377][ 65]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.01-00.56.28:377][ 65]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.01-00.56.28:377][ 65]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.01-00.56.28:377][ 65]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.01-00.56.28:378][ 65]LogContentBundle: [FirstPersonMap(Standalone)] Creating new container.
+[2024.06.01-00.56.28:378][ 65]LogWorldPartition: Display: WorldPartition initialize took 1.562 ms (total: 554.483 ms)
+[2024.06.01-00.56.28:379][ 65]LogPlayLevel: PIE: World Init took: (0.003159s)
+[2024.06.01-00.56.28:385][ 65]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.06.01-00.56.28:385][ 65]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.01-00.56.28:385][ 65]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.01-00.56.28:386][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.01-00.56.28:386][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.01-00.56.28:386][ 65]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.01-00.56.28:386][ 65]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.01-00.56.28:386][ 65]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.01-00.56.28:386][ 65]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.01-00.56.28:386][ 65]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.01-00.56.28:386][ 65]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.01-00.56.28:386][ 65]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.01-00.56.28:387][ 65]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.01-00.56.28:411][ 65]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.01-00.56.28:411][ 65]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.01-00.56.28:411][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.01-00.56.28:411][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.01-00.56.28:412][ 65]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.06.01-00.56.28:412][ 65]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.06.01-00.56.28:413][ 65]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.06.01-00.56.28:413][ 65]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.06.01-00.56.28:413][ 65]LogInit: FAudioDevice initialized with ID 6.
+[2024.06.01-00.56.28:413][ 65]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2024.06.01-00.56.28:413][ 65]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.06.01-00.56.28:437][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-00.56.28:437][ 65]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.01-00.56.28:439][ 65]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.31-20.56.28
+[2024.06.01-00.56.28:440][ 65]LogWorld: Bringing up level for play took: 0.002626
+[2024.06.01-00.56.28:442][ 65]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.06.01-00.56.28:454][ 65]PIE: Server logged in
+[2024.06.01-00.56.28:456][ 65]PIE: Play in editor total start time 0.228 seconds.
+[2024.06.01-00.56.28:844][ 67]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.29:223][ 96]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.29:798][139]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.30:396][182]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.30:921][221]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.31:432][261]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.31:856][294]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.32:390][336]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.32:815][370]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.33:347][410]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.33:854][449]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.34:265][481]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.34:773][521]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.35:211][555]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.35:623][586]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.36:085][621]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.36:519][654]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.36:945][687]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.37:506][731]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.38:106][780]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.38:642][821]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.39:249][867]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.39:694][900]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.40:145][934]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.40:570][966]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.41:105][  7]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.41:641][ 48]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.42:200][ 91]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.42:628][125]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.43:089][162]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.43:552][199]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.43:966][231]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.44:544][276]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.45:146][322]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.45:670][362]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.46:168][400]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.46:760][445]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.47:290][486]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.47:801][525]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.48:300][562]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.48:844][603]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.49:268][635]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.49:812][673]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.50:371][715]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.50:904][754]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.51:506][799]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.52:002][836]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.52:591][880]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.53:005][910]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.53:471][946]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.53:948][981]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.54:474][ 22]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.55:067][ 65]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.55:668][110]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.56.56:159][147]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.56:760][189]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.57:315][230]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.57:847][269]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.58:441][313]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.58:857][343]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.59:316][376]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.56.59:867][417]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.00:444][460]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.00:973][500]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.01:452][536]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.02:043][580]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.02:646][625]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.03:101][658]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.03:663][700]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.04:181][739]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.04:702][778]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: ================================================
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Total job queries 174, among them cache hits 19 (10.92%), DDC hits 145 (83.33%), Duplicates 7 (4.02%)
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Tracking 148 distinct input hashes that result in 139 distinct outputs (93.92%)
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: RAM used: 5.01 MiB of 1.60 GiB budget. Usage: 0.31%
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Shaders Compiled: 3
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Job execution time: average 1.46 s, max 1.53 s
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Job life time (pending + execution): average 1.51 s, max 1.58
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Shader code size: average 17.905 KiB, min 3.641 KiB, max 33.734 KiB
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.58 s
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Average processing rate: 1.90 jobs/sec
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Total thread time: 1 s
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Total thread preprocess time: 2.604 s
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Percentage time preprocessing: 260.44%
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Effective parallelization: 0.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 36.95% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display:                                                  FHitProxyPS - 23.17% of total time (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 23.15% of total time (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 16.73% of total time (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: === Material stats ===
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Materials Translated:    119
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Material Translation Only: 0.03 s (43%)
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: Material Cache Hits: 30 (25%)
+[2024.06.01-00.57.04:881][791]LogShaderCompilers: Display: ================================================
+[2024.06.01-00.57.05:292][821]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.05:780][858]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.06:324][898]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.06:797][932]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.07:398][977]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.07:842][ 10]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.08:352][ 48]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.08:833][ 84]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.09:285][118]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.09:854][161]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.10:387][202]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.10:822][234]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.11:265][267]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.11:841][310]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.12:439][355]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.12:869][387]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.13:340][422]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.13:822][460]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.14:394][506]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.14:941][550]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.15:348][583]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.15:789][617]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.16:320][658]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.16:889][702]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.17:482][746]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.18:035][787]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.18:525][824]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.19:068][865]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.19:649][910]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.20:207][954]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.20:678][991]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.21:190][ 31]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.21:631][ 65]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.22:148][105]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.22:575][138]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.23:025][171]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.23:477][204]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.24:076][249]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.24:588][286]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.25:085][324]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.25:656][367]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.26:071][398]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.26:667][443]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.27:187][481]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.27:654][516]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.28:237][560]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.28:738][597]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.29:157][628]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.29:573][659]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.30:006][692]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.30:429][724]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Ranged Attack
+[2024.06.01-00.57.30:883][759]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.31:469][803]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.32:060][849]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.32:524][887]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.33:078][931]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.33:537][968]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.33:990][  5]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.34:458][ 44]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.34:896][ 80]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.35:320][115]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.35:866][160]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.36:311][197]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.36:782][236]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.37:189][270]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.37:690][310]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.38:132][346]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.38:684][391]LogBlueprintUserMessages: [CheckPlayerLocation_Service_C_0] Melee Attack
+[2024.06.01-00.57.39:281][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.01-00.57.39:281][437]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.01-00.57.39:282][437]LogSlate: Window 'RetroFPSProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.01-00.57.39:286][437]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-00.57.39:287][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-00.57.39:287][437]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2024.06.01-00.57.39:287][437]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.06.01-00.57.39:287][437]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.01-00.57.39:287][437]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.01-00.57.39:289][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.01-00.57.39:294][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-00.57.39:313][437]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.06.01-00.57.39:313][437]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.06.01-00.57.39:314][437]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.06.01-00.57.39:321][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.06.01-00.57.39:358][438]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.06.01-00.57.41:327][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-00.57.41:352][633]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BaseEnemy_BP] ([2] browsable assets)...
+[2024.06.01-00.57.41:352][633]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BaseEnemy_BP]
+[2024.06.01-00.57.41:352][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BaseEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset" SILENT=true
+[2024.06.01-00.57.41:386][633]LogSavePackage: Moving output files for package: /Game/Enemies/BaseEnemy_BP
+[2024.06.01-00.57.41:387][633]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BaseEnemy_BP69F4A33D41A15CCA611F18804D45D228.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset'
+[2024.06.01-00.57.41:393][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.784 ms (total: 1.56 sec)
+[2024.06.01-00.57.41:416][633]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-00.57.41:416][633]LogContentValidation: Enabled validators:
+[2024.06.01-00.57.41:416][633]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-00.57.41:416][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-00.57.41:416][633]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-00.57.41:416][633]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
+[2024.06.01-00.57.41:416][633]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset

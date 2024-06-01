@@ -3743,3 +3743,160 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.01-22.18.08:540][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
 [2024.06.01-22.18.08:546][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
 [2024.06.01-22.18.08:652][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.06.01-22.19.03:366][369]LogContentBrowser: Deferred new asset file creation: BaseEnemy_BP_Child
+[2024.06.01-22.19.03:436][369]LogContentBrowser: Creating deferred item: BaseEnemy_BP_Child
+[2024.06.01-22.19.03:448][370]LogContentBrowser: Renaming the item being created (Deferred Item: BaseEnemy_BP_Child).
+[2024.06.01-22.19.07:472][852]LogContentBrowser: Attempting asset rename: BaseEnemy_BP_Child -> RangedEnemy_BP
+[2024.06.01-22.19.07:477][852]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemies/RangedEnemy_BP.
+[2024.06.01-22.19.07:479][852]LogContentBrowser: End creating deferred item BaseEnemy_BP_Child
+[2024.06.01-22.19.09:851][125]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/RangedEnemy_BP.RangedEnemy_BP
+[2024.06.01-22.19.16:574][571]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.01-22.19.17:946][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.06.01-22.19.18:402][689]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-22.19.18:431][689]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/RangedEnemy_BP] ([2] browsable assets)...
+[2024.06.01-22.19.18:431][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/RangedEnemy_BP]
+[2024.06.01-22.19.18:431][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/RangedEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/RangedEnemy_BP.uasset" SILENT=true
+[2024.06.01-22.19.18:435][689]LogSavePackage: Moving output files for package: /Game/Enemies/RangedEnemy_BP
+[2024.06.01-22.19.18:435][689]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/RangedEnemy_BP3AF5EB0F4016BA370DA9EDAE7AE612A2.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/RangedEnemy_BP.uasset'
+[2024.06.01-22.19.18:436][689]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemies/RangedEnemy_BP.
+[2024.06.01-22.19.18:444][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.596 ms (total: 4.86 sec)
+[2024.06.01-22.19.18:469][689]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-22.19.18:469][689]LogContentValidation: Enabled validators:
+[2024.06.01-22.19.18:469][689]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-22.19.18:469][689]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-22.19.18:469][689]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-22.19.18:469][689]LogContentValidation: Display: Validating asset /Game/Enemies/RangedEnemy_BP.RangedEnemy_BP
+[2024.06.01-22.19.18:469][689]AssetCheck: /Game/Enemies/RangedEnemy_BP Validating asset
+[2024.06.01-22.19.43:631][804]LogContentBrowser: Deferred new asset file creation: HybridEnemyBT1
+[2024.06.01-22.19.43:639][804]LogContentBrowser: Creating deferred item: HybridEnemyBT1
+[2024.06.01-22.19.43:649][805]LogContentBrowser: Renaming the item being created (Deferred Item: HybridEnemyBT1).
+[2024.06.01-22.19.51:709][750]LogContentBrowser: Attempting asset rename: HybridEnemyBT1 -> RangedEnemyBT
+[2024.06.01-22.19.51:711][750]LogContentBrowser: End creating deferred item HybridEnemyBT1
+[2024.06.01-22.19.54:087][ 26]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Enemies/RangedEnemyBT.RangedEnemyBT
+[2024.06.01-22.22.15:884][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-22.22.15:908][ 62]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/RangedEnemyBT] ([1] browsable assets)...
+[2024.06.01-22.22.15:908][ 62]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/RangedEnemyBT]
+[2024.06.01-22.22.15:908][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/RangedEnemyBT" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/RangedEnemyBT.uasset" SILENT=true
+[2024.06.01-22.22.15:910][ 62]LogSavePackage: Moving output files for package: /Game/Enemies/RangedEnemyBT
+[2024.06.01-22.22.15:910][ 62]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/RangedEnemyBT5882B57E4A88E67EF03C3180E8FD1237.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/RangedEnemyBT.uasset'
+[2024.06.01-22.22.15:917][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.388 ms (total: 4.89 sec)
+[2024.06.01-22.22.15:939][ 62]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-22.22.15:939][ 62]LogContentValidation: Enabled validators:
+[2024.06.01-22.22.15:939][ 62]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-22.22.15:939][ 62]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-22.22.15:940][ 62]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-22.22.15:940][ 62]LogContentValidation: Display: Validating asset /Game/Enemies/RangedEnemyBT.RangedEnemyBT
+[2024.06.01-22.22.15:940][ 62]AssetCheck: /Game/Enemies/RangedEnemyBT Validating asset
+[2024.06.01-22.22.46:098][ 61]LogSlate: Window 'Save Asset As' being destroyed
+[2024.06.01-22.22.46:115][ 61]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/MoveToPlayerRangedEnemy_Task.MoveToPlayerRangedEnemy_Task
+[2024.06.01-22.22.46:185][ 61]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemies/MoveToPlayerRangedEnemy_Task.
+[2024.06.01-22.22.52:900][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-22.22.52:917][735]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/MoveToPlayerRangedEnemy_Task] ([2] browsable assets)...
+[2024.06.01-22.22.52:917][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/MoveToPlayerRangedEnemy_Task]
+[2024.06.01-22.22.52:919][735]LogSavePackage: Moving output files for package: /Game/Enemies/MoveToPlayerRangedEnemy_Task
+[2024.06.01-22.22.52:919][735]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/MoveToPlayerRangedEnemy_TaskE37B10994ED968556CE24792302A483A.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/MoveToPlayerRangedEnemy_Task.uasset'
+[2024.06.01-22.22.52:920][735]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemies/MoveToPlayerRangedEnemy_Task.
+[2024.06.01-22.22.52:928][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 27.724 ms (total: 4.92 sec)
+[2024.06.01-22.22.52:949][735]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-22.22.52:949][735]LogContentValidation: Enabled validators:
+[2024.06.01-22.22.52:949][735]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-22.22.52:949][735]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-22.22.52:949][735]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-22.22.52:949][735]LogContentValidation: Display: Validating asset /Game/Enemies/MoveToPlayerRangedEnemy_Task.MoveToPlayerRangedEnemy_Task
+[2024.06.01-22.22.52:949][735]AssetCheck: /Game/Enemies/MoveToPlayerRangedEnemy_Task Validating asset
+[2024.06.01-22.22.57:964][151]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Enemies/HybridEnemyBT.HybridEnemyBT
+[2024.06.01-22.23.01:022][412]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/CheckPlayerLocation_Service.CheckPlayerLocation_Service
+[2024.06.01-22.23.22:989][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-22.23.23:012][ 23]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/CheckPlayerLocation_Service] ([2] browsable assets)...
+[2024.06.01-22.23.23:012][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/CheckPlayerLocation_Service]
+[2024.06.01-22.23.23:016][ 23]LogSavePackage: Moving output files for package: /Game/Enemies/CheckPlayerLocation_Service
+[2024.06.01-22.23.23:017][ 23]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/CheckPlayerLocation_Service6DF734CC40290D47624C0F9F639C62BD.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/CheckPlayerLocation_Service.uasset'
+[2024.06.01-22.23.23:023][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.963 ms (total: 4.95 sec)
+[2024.06.01-22.23.23:050][ 23]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-22.23.23:050][ 23]LogContentValidation: Enabled validators:
+[2024.06.01-22.23.23:050][ 23]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-22.23.23:050][ 23]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-22.23.23:050][ 23]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-22.23.23:050][ 23]LogContentValidation: Display: Validating asset /Game/Enemies/CheckPlayerLocation_Service.CheckPlayerLocation_Service
+[2024.06.01-22.23.23:050][ 23]AssetCheck: /Game/Enemies/CheckPlayerLocation_Service Validating asset
+[2024.06.01-22.24.26:182][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-22.24.26:209][443]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/MoveToPlayerRangedEnemy_Task] ([2] browsable assets)...
+[2024.06.01-22.24.26:209][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/MoveToPlayerRangedEnemy_Task]
+[2024.06.01-22.24.26:212][443]LogSavePackage: Moving output files for package: /Game/Enemies/MoveToPlayerRangedEnemy_Task
+[2024.06.01-22.24.26:213][443]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/MoveToPlayerRangedEnemy_Task08E16B1340CC5BA33806B088C699A853.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/MoveToPlayerRangedEnemy_Task.uasset'
+[2024.06.01-22.24.26:219][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.212 ms (total: 4.99 sec)
+[2024.06.01-22.24.26:241][443]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-22.24.26:241][443]LogContentValidation: Enabled validators:
+[2024.06.01-22.24.26:241][443]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-22.24.26:241][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-22.24.26:241][443]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-22.24.26:241][443]LogContentValidation: Display: Validating asset /Game/Enemies/MoveToPlayerRangedEnemy_Task.MoveToPlayerRangedEnemy_Task
+[2024.06.01-22.24.26:241][443]AssetCheck: /Game/Enemies/MoveToPlayerRangedEnemy_Task Validating asset
+[2024.06.01-22.24.41:750][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-22.24.41:774][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/MoveToPlayerRangedEnemy_Task] ([2] browsable assets)...
+[2024.06.01-22.24.41:775][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/MoveToPlayerRangedEnemy_Task]
+[2024.06.01-22.24.41:778][978]LogSavePackage: Moving output files for package: /Game/Enemies/MoveToPlayerRangedEnemy_Task
+[2024.06.01-22.24.41:779][978]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/MoveToPlayerRangedEnemy_Task76BFC5FE4D3A40D804601396557BA5E7.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/MoveToPlayerRangedEnemy_Task.uasset'
+[2024.06.01-22.24.41:785][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.881 ms (total: 5.03 sec)
+[2024.06.01-22.24.41:812][978]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-22.24.41:812][978]LogContentValidation: Enabled validators:
+[2024.06.01-22.24.41:812][978]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-22.24.41:812][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-22.24.41:812][978]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-22.24.41:812][978]LogContentValidation: Display: Validating asset /Game/Enemies/MoveToPlayerRangedEnemy_Task.MoveToPlayerRangedEnemy_Task
+[2024.06.01-22.24.41:812][978]AssetCheck: /Game/Enemies/MoveToPlayerRangedEnemy_Task Validating asset
+[2024.06.01-22.24.55:449][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.06.01-22.24.55:880][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-22.24.55:897][293]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/MoveToPlayerRangedEnemy_Task] ([2] browsable assets)...
+[2024.06.01-22.24.55:897][293]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/MoveToPlayerRangedEnemy_Task]
+[2024.06.01-22.24.55:901][293]LogSavePackage: Moving output files for package: /Game/Enemies/MoveToPlayerRangedEnemy_Task
+[2024.06.01-22.24.55:902][293]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/MoveToPlayerRangedEnemy_TaskF842AD444E881E1B439DADAE2C3C1EB0.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/MoveToPlayerRangedEnemy_Task.uasset'
+[2024.06.01-22.24.55:908][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.095 ms (total: 5.05 sec)
+[2024.06.01-22.24.55:930][293]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-22.24.55:930][293]LogContentValidation: Enabled validators:
+[2024.06.01-22.24.55:930][293]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-22.24.55:930][293]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-22.24.55:930][293]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-22.24.55:930][293]LogContentValidation: Display: Validating asset /Game/Enemies/MoveToPlayerRangedEnemy_Task.MoveToPlayerRangedEnemy_Task
+[2024.06.01-22.24.55:930][293]AssetCheck: /Game/Enemies/MoveToPlayerRangedEnemy_Task Validating asset
+[2024.06.01-22.25.11:986][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-22.25.12:003][931]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/RangedEnemyBT] ([1] browsable assets)...
+[2024.06.01-22.25.12:003][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/RangedEnemyBT]
+[2024.06.01-22.25.12:003][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/RangedEnemyBT" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/RangedEnemyBT.uasset" SILENT=true
+[2024.06.01-22.25.12:005][931]LogSavePackage: Moving output files for package: /Game/Enemies/RangedEnemyBT
+[2024.06.01-22.25.12:006][931]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/RangedEnemyBT0C84D4804FEC304EAAB649B53E12B208.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/RangedEnemyBT.uasset'
+[2024.06.01-22.25.12:012][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.679 ms (total: 5.08 sec)
+[2024.06.01-22.25.12:034][931]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-22.25.12:034][931]LogContentValidation: Enabled validators:
+[2024.06.01-22.25.12:034][931]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-22.25.12:035][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-22.25.12:035][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-22.25.12:035][931]LogContentValidation: Display: Validating asset /Game/Enemies/RangedEnemyBT.RangedEnemyBT
+[2024.06.01-22.25.12:035][931]AssetCheck: /Game/Enemies/RangedEnemyBT Validating asset
+[2024.06.01-22.25.34:066][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-22.25.34:090][490]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/RangedEnemy_BP] ([2] browsable assets)...
+[2024.06.01-22.25.34:090][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/RangedEnemy_BP]
+[2024.06.01-22.25.34:090][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/RangedEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/RangedEnemy_BP.uasset" SILENT=true
+[2024.06.01-22.25.34:093][490]LogSavePackage: Moving output files for package: /Game/Enemies/RangedEnemy_BP
+[2024.06.01-22.25.34:094][490]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/RangedEnemy_BP6C3E92764F3B84503573F1A164BEA5B8.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/RangedEnemy_BP.uasset'
+[2024.06.01-22.25.34:101][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.828 ms (total: 5.11 sec)
+[2024.06.01-22.25.34:122][490]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-22.25.34:122][490]LogContentValidation: Enabled validators:
+[2024.06.01-22.25.34:122][490]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-22.25.34:122][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-22.25.34:122][490]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-22.25.34:122][490]LogContentValidation: Display: Validating asset /Game/Enemies/RangedEnemy_BP.RangedEnemy_BP
+[2024.06.01-22.25.34:123][490]AssetCheck: /Game/Enemies/RangedEnemy_BP Validating asset
+[2024.06.01-22.26.07:501][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-22.26.07:523][ 72]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/MoveToPlayerRangedEnemy_Task] ([2] browsable assets)...
+[2024.06.01-22.26.07:523][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/MoveToPlayerRangedEnemy_Task]
+[2024.06.01-22.26.07:527][ 72]LogSavePackage: Moving output files for package: /Game/Enemies/MoveToPlayerRangedEnemy_Task
+[2024.06.01-22.26.07:527][ 72]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/MoveToPlayerRangedEnemy_TaskBB5176984EE68FE14606B9BC012B6843.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/MoveToPlayerRangedEnemy_Task.uasset'
+[2024.06.01-22.26.07:534][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 32.965 ms (total: 5.15 sec)
+[2024.06.01-22.26.07:554][ 72]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-22.26.07:554][ 72]LogContentValidation: Enabled validators:
+[2024.06.01-22.26.07:554][ 72]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-22.26.07:555][ 72]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-22.26.07:555][ 72]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-22.26.07:555][ 72]LogContentValidation: Display: Validating asset /Game/Enemies/MoveToPlayerRangedEnemy_Task.MoveToPlayerRangedEnemy_Task
+[2024.06.01-22.26.07:555][ 72]AssetCheck: /Game/Enemies/MoveToPlayerRangedEnemy_Task Validating asset

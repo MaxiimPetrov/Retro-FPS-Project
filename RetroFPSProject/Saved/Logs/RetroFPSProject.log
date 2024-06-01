@@ -3344,3 +3344,76 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.01-17.14.52:666][163]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.06.01-17.14.52:666][163]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
 [2024.06.01-17.14.52:666][163]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-17.15.32:117][942]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-17.15.32:117][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-17.15.32:164][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.06.01-17.15.32:705][982]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.06.01-17.15.32:705][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.01-17.15.32:752][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.06.01-17.20.27:756][ 35]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.06.01-17.20.27:770][ 35]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.01-17.20.42:686][203]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.06.01-17.20.42:698][203]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.01-17.21.33:530][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-17.21.33:554][707]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BaseEnemy_BP] ([2] browsable assets)...
+[2024.06.01-17.21.33:554][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BaseEnemy_BP]
+[2024.06.01-17.21.33:554][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BaseEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset" SILENT=true
+[2024.06.01-17.21.33:598][707]LogSavePackage: Moving output files for package: /Game/Enemies/BaseEnemy_BP
+[2024.06.01-17.21.33:598][707]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BaseEnemy_BP19B7F1DA4479D55A7ED821AE2F08139D.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset'
+[2024.06.01-17.21.33:605][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.374 ms (total: 4.45 sec)
+[2024.06.01-17.21.33:624][707]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-17.21.33:624][707]LogContentValidation: Enabled validators:
+[2024.06.01-17.21.33:624][707]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-17.21.33:624][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-17.21.33:624][707]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-17.21.33:624][707]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
+[2024.06.01-17.21.33:625][707]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-17.22.21:387][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-17.22.21:408][744]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BaseEnemy_BP] ([2] browsable assets)...
+[2024.06.01-17.22.21:408][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BaseEnemy_BP]
+[2024.06.01-17.22.21:408][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BaseEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset" SILENT=true
+[2024.06.01-17.22.21:452][744]LogSavePackage: Moving output files for package: /Game/Enemies/BaseEnemy_BP
+[2024.06.01-17.22.21:453][744]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BaseEnemy_BP645B90874733969D0F35ABB87621F2DE.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset'
+[2024.06.01-17.22.21:459][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.154 ms (total: 4.52 sec)
+[2024.06.01-17.22.21:484][744]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-17.22.21:484][744]LogContentValidation: Enabled validators:
+[2024.06.01-17.22.21:484][744]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-17.22.21:484][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-17.22.21:484][744]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-17.22.21:484][744]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
+[2024.06.01-17.22.21:484][744]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-17.22.22:258][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.06.01-17.22.22:874][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-17.22.22:895][859]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BaseEnemy_BP] ([2] browsable assets)...
+[2024.06.01-17.22.22:895][859]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BaseEnemy_BP]
+[2024.06.01-17.22.22:895][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BaseEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset" SILENT=true
+[2024.06.01-17.22.22:939][859]LogSavePackage: Moving output files for package: /Game/Enemies/BaseEnemy_BP
+[2024.06.01-17.22.22:939][859]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BaseEnemy_BPA0235919494AE7AE1D719E89D250778B.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset'
+[2024.06.01-17.22.22:945][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.946 ms (total: 4.59 sec)
+[2024.06.01-17.22.22:972][859]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-17.22.22:972][859]LogContentValidation: Enabled validators:
+[2024.06.01-17.22.22:972][859]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-17.22.22:972][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-17.22.22:972][859]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-17.22.22:972][859]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
+[2024.06.01-17.22.22:972][859]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-17.24.06:701][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.06.01-17.24.07:172][695]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.01-17.24.07:197][695]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BaseEnemy_BP] ([2] browsable assets)...
+[2024.06.01-17.24.07:197][695]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BaseEnemy_BP]
+[2024.06.01-17.24.07:197][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BaseEnemy_BP" FILE="../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset" SILENT=true
+[2024.06.01-17.24.07:242][695]LogSavePackage: Moving output files for package: /Game/Enemies/BaseEnemy_BP
+[2024.06.01-17.24.07:242][695]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BaseEnemy_BP24EB5585498E704CCB77C89AF425BEED.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Enemies/BaseEnemy_BP.uasset'
+[2024.06.01-17.24.07:249][695]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.030 ms (total: 4.67 sec)
+[2024.06.01-17.24.07:274][695]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.01-17.24.07:274][695]LogContentValidation: Enabled validators:
+[2024.06.01-17.24.07:274][695]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.01-17.24.07:274][695]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.01-17.24.07:274][695]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.01-17.24.07:274][695]LogContentValidation: Display: Validating asset /Game/Enemies/BaseEnemy_BP.BaseEnemy_BP
+[2024.06.01-17.24.07:274][695]AssetCheck: /Game/Enemies/BaseEnemy_BP Validating asset
+[2024.06.01-17.24.57:392][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.06.01-17.24.57:407][653]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/HI/XQ3FXK5TE3K94RWE59J3KO_Auto6
+[2024.06.01-17.24.57:408][653]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/XQ3FXK5TE3K94RWE59J3KO_Auto670AAD65640C18383C27D04AAB22CAAD5.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/HI/XQ3FXK5TE3K94RWE59J3KO_Auto6.uasset'
+[2024.06.01-17.24.57:410][653]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.036
+[2024.06.01-17.24.57:410][653]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036

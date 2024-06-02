@@ -1748,3 +1748,407 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.02-04.04.18:320][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
 [2024.06.02-04.04.18:339][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
 [2024.06.02-04.04.18:412][337]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.06.02-04.11.34:580][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.06.02-04.11.34:585][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/NQ/QMNJQJGAI6NXT8HL28JN26_Auto2
+[2024.06.02-04.11.34:585][254]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/QMNJQJGAI6NXT8HL28JN26_Auto27D981AAE430F8E32F16EACA7375148B9.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/NQ/QMNJQJGAI6NXT8HL28JN26_Auto2.uasset'
+[2024.06.02-04.11.34:586][254]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.023
+[2024.06.02-04.11.34:586][254]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
+[2024.06.02-04.11.34:586][254]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Items/Explosivebarrel1_Sprite] ([1] browsable assets)...
+[2024.06.02-04.11.34:586][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Items/Explosivebarrel1_Sprite]
+[2024.06.02-04.11.34:587][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Items/Explosivebarrel1_Sprite_Auto2
+[2024.06.02-04.11.34:587][254]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Explosivebarrel1_Sprite_Auto23B591F244088453D4AF40D853BB1F713.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Items/Explosivebarrel1_Sprite_Auto2.uasset'
+[2024.06.02-04.11.34:589][254]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Items/Explosivebarrel2_Sprite] ([1] browsable assets)...
+[2024.06.02-04.11.34:589][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Items/Explosivebarrel2_Sprite]
+[2024.06.02-04.11.34:590][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Items/Explosivebarrel2_Sprite_Auto2
+[2024.06.02-04.11.34:590][254]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Explosivebarrel2_Sprite_Auto2EF0DDC7C4653C23C09D4D2964821C6CE.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Items/Explosivebarrel2_Sprite_Auto2.uasset'
+[2024.06.02-04.11.34:591][254]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Items/Explosivebarrel3_Sprite] ([1] browsable assets)...
+[2024.06.02-04.11.34:591][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Items/Explosivebarrel3_Sprite]
+[2024.06.02-04.11.34:592][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Items/Explosivebarrel3_Sprite_Auto2
+[2024.06.02-04.11.34:592][254]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Explosivebarrel3_Sprite_Auto2FE085B0B4413C341C880799B5D6EBA0D.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Items/Explosivebarrel3_Sprite_Auto2.uasset'
+[2024.06.02-04.11.34:593][254]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Items/ExplosiveBarrel] ([1] browsable assets)...
+[2024.06.02-04.11.34:593][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Items/ExplosiveBarrel]
+[2024.06.02-04.11.34:594][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Items/ExplosiveBarrel_Auto2
+[2024.06.02-04.11.34:594][254]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/ExplosiveBarrel_Auto23A8873AB4DA631202D0D5D885D76AAA1.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Items/ExplosiveBarrel_Auto2.uasset'
+[2024.06.02-04.11.34:595][254]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Items/Gargoyal_Sprite] ([1] browsable assets)...
+[2024.06.02-04.11.34:595][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Items/Gargoyal_Sprite]
+[2024.06.02-04.11.34:596][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Items/Gargoyal_Sprite_Auto2
+[2024.06.02-04.11.34:596][254]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Gargoyal_Sprite_Auto2186DD72A41EE194DFE573EBEEA23CF24.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Items/Gargoyal_Sprite_Auto2.uasset'
+[2024.06.02-04.11.34:597][254]LogFileHelpers: Auto-saving content packages took 0.011
+[2024.06.02-04.51.46:345][486]LogDerivedDataCache: C:/Users/Max/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.02-05.15.42:014][567]LogContentBrowser: Deferred new asset file creation: Door_Mat
+[2024.06.02-05.15.42:015][567]LogTexture: Display: Building textures: /Game/Sprites/Items/Door.Door (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.06.02-05.15.42:026][567]LogContentBrowser: Creating deferred item: Door_Mat
+[2024.06.02-05.15.42:068][568]LogContentBrowser: Renaming the item being created (Deferred Item: Door_Mat).
+[2024.06.02-05.15.49:856][491]LogContentBrowser: Attempting asset rename: Door_Mat -> Door_Material
+[2024.06.02-05.15.49:862][491]LogContentBrowser: End creating deferred item Door_Mat
+[2024.06.02-05.15.52:975][650]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.06.02-05.15.52:975][650]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.06.02-05.15.57:609][ 58]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.06.02-05.15.57:638][ 58]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.06.02-05.15.57:644][ 58]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.06.02-05.15.57:653][ 59]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.06.02-05.16.00:689][413]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Door
+[2024.06.02-05.16.00:695][413]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.06.02-05.16.03:145][698]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Door.BP_Door
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: ================================================
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Total job queries 210, among them cache hits 23 (10.95%), DDC hits 165 (78.57%), Duplicates 6 (2.86%)
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Tracking 181 distinct input hashes that result in 165 distinct outputs (91.16%)
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: RAM used: 5.55 MiB of 1.60 GiB budget. Usage: 0.34%
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Shaders Compiled: 16
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100%)
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Average time worker was idle: 5.78 s
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Job execution time: average 0.59 s, max 1.32 s
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Job life time (pending + execution): average 0.66 s, max 1.42
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Shader code size: average 33.68 KiB, min 29.117 KiB, max 60.188 KiB
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.03 s
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Average processing rate: 3.97 jobs/sec
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Total thread time: 4.028 s
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Total thread preprocess time: 3.091 s
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Percentage time preprocessing: 76.74%
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Effective parallelization: 1.00 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.34 sec, max 0.36 sec, min 0.31 sec)
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    4 times, average 0.23 sec, max 0.24 sec, min 0.21 sec)
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.18 sec, max 0.21 sec, min 0.17 sec)
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.17 sec, max 0.18 sec, min 0.16 sec)
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.02-05.16.53:651][788]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 50.32% of total time (compiled    6 times, average 0.34 sec, max 0.36 sec, min 0.31 sec)
+[2024.06.02-05.16.53:652][788]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 23.10% of total time (compiled    4 times, average 0.23 sec, max 0.24 sec, min 0.21 sec)
+[2024.06.02-05.16.53:652][788]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.15% of total time (compiled    4 times, average 0.18 sec, max 0.21 sec, min 0.17 sec)
+[2024.06.02-05.16.53:652][788]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.43% of total time (compiled    2 times, average 0.17 sec, max 0.18 sec, min 0.16 sec)
+[2024.06.02-05.16.53:652][788]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.06.02-05.16.53:652][788]LogShaderCompilers: Display: === Material stats ===
+[2024.06.02-05.16.53:652][788]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.06.02-05.16.53:652][788]LogShaderCompilers: Display: Materials Translated:    120
+[2024.06.02-05.16.53:652][788]LogShaderCompilers: Display: Material Total Translate Time: 0.06 s
+[2024.06.02-05.16.53:652][788]LogShaderCompilers: Display: Material Translation Only: 0.02 s (41%)
+[2024.06.02-05.16.53:652][788]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2024.06.02-05.16.53:652][788]LogShaderCompilers: Display: Material Cache Hits: 36 (30%)
+[2024.06.02-05.16.53:652][788]LogShaderCompilers: Display: ================================================
+[2024.06.02-05.16.59:700][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.06.02-05.16.59:703][806]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.023
+[2024.06.02-05.16.59:703][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/Items/Door_Material] ([1] browsable assets)...
+[2024.06.02-05.17.01:256][806]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Sprites/Items/Door_Material.Door_Material]
+[2024.06.02-05.17.01:256][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Items/Door_Material]
+[2024.06.02-05.17.01:258][806]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Items/Door_Material_Auto3
+[2024.06.02-05.17.01:258][806]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Door_Material_Auto3A719F03F4ACC0C636EB3D991ED8E6812.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Sprites/Items/Door_Material_Auto3.uasset'
+[2024.06.02-05.17.01:259][806]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Items/BP_Door] ([2] browsable assets)...
+[2024.06.02-05.17.01:273][806]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/BP_Door.BP_Door]
+[2024.06.02-05.17.01:273][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Door]
+[2024.06.02-05.17.01:276][806]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BP_Door_Auto3
+[2024.06.02-05.17.01:276][806]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_Door_Auto3BD0E86E945A2DC225B35119E0476F85B.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Blueprints/Items/BP_Door_Auto3.uasset'
+[2024.06.02-05.17.01:277][806]LogFileHelpers: Auto-saving content packages took 1.574
+[2024.06.02-05.17.01:337][806]LogAutomationController: Ignoring very large delta of 2.01 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: ================================================
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Total job queries 222, among them cache hits 26 (11.71%), DDC hits 166 (74.77%), Duplicates 6 (2.70%)
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Tracking 190 distinct input hashes that result in 173 distinct outputs (91.05%)
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: RAM used: 5.78 MiB of 1.60 GiB budget. Usage: 0.35%
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Shaders Compiled: 24
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Jobs assigned 24, completed 24 (100%)
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Average time worker was idle: 21.85 s
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Job execution time: average 0.77 s, max 1.44 s
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Job life time (pending + execution): average 0.83 s, max 1.45
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Shader code size: average 37.743 KiB, min 29.117 KiB, max 60.188 KiB
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.47 s
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Average processing rate: 4.38 jobs/sec
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Total thread time: 7.783 s
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Total thread preprocess time: 3.233 s
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Percentage time preprocessing: 41.53%
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Effective parallelization: 1.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.04% of total time (compiled    6 times, average 0.34 sec, max 0.36 sec, min 0.31 sec)
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.96% of total time (compiled    4 times, average 0.23 sec, max 0.24 sec, min 0.21 sec)
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.91% of total time (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.39% of total time (compiled    4 times, average 0.18 sec, max 0.21 sec, min 0.17 sec)
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.78% of total time (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: === Material stats ===
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Materials Translated:    120
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Material Total Translate Time: 0.06 s
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Material Translation Only: 0.02 s (41%)
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: Material Cache Hits: 36 (30%)
+[2024.06.02-05.19.53:812][324]LogShaderCompilers: Display: ================================================
+[2024.06.02-05.27.15:570][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-05.27.15:592][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/BP_Door] ([2] browsable assets)...
+[2024.06.02-05.27.15:592][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Door]
+[2024.06.02-05.27.15:595][ 36]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Door
+[2024.06.02-05.27.15:595][ 36]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_DoorDC16D6ED4955E934BD68E2B3331B3CF2.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/Items/BP_Door.uasset'
+[2024.06.02-05.27.15:605][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.483 ms (total: 663.530 ms)
+[2024.06.02-05.27.15:630][ 36]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.02-05.27.15:630][ 36]LogContentValidation: Enabled validators:
+[2024.06.02-05.27.15:630][ 36]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.02-05.27.15:630][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.02-05.27.15:630][ 36]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.02-05.27.15:630][ 36]LogContentValidation: Display: Validating asset /Game/Blueprints/Items/BP_Door.BP_Door
+[2024.06.02-05.27.15:630][ 36]AssetCheck: /Game/Blueprints/Items/BP_Door Validating asset
+[2024.06.02-05.28.26:621][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-05.28.26:644][655]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Items/BP_Door] ([2] browsable assets)...
+[2024.06.02-05.28.26:652][655]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/BP_Door.BP_Door]
+[2024.06.02-05.28.26:652][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Door]
+[2024.06.02-05.28.26:656][655]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Door
+[2024.06.02-05.28.26:656][655]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_Door683DF53A42D20C61D2AE72AD9F298C5F.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/Items/BP_Door.uasset'
+[2024.06.02-05.28.26:663][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.999 ms (total: 705.530 ms)
+[2024.06.02-05.28.26:683][655]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.02-05.28.26:683][655]LogContentValidation: Enabled validators:
+[2024.06.02-05.28.26:683][655]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.02-05.28.26:683][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.02-05.28.26:683][655]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.02-05.28.26:683][655]LogContentValidation: Display: Validating asset /Game/Blueprints/Items/BP_Door.BP_Door
+[2024.06.02-05.28.26:683][655]AssetCheck: /Game/Blueprints/Items/BP_Door Validating asset
+[2024.06.02-05.32.33:271][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-05.32.33:297][304]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Items/BP_Door] ([2] browsable assets)...
+[2024.06.02-05.32.33:338][304]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/BP_Door.BP_Door]
+[2024.06.02-05.32.33:338][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Door]
+[2024.06.02-05.32.33:343][304]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Door
+[2024.06.02-05.32.33:344][304]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_Door799A7E904371B3FE2F8C86B4DCB9A0D0.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/Items/BP_Door.uasset'
+[2024.06.02-05.32.33:351][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.175 ms (total: 785.705 ms)
+[2024.06.02-05.32.33:375][304]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.02-05.32.33:375][304]LogContentValidation: Enabled validators:
+[2024.06.02-05.32.33:375][304]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.02-05.32.33:375][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.02-05.32.33:375][304]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.02-05.32.33:375][304]LogContentValidation: Display: Validating asset /Game/Blueprints/Items/BP_Door.BP_Door
+[2024.06.02-05.32.33:375][304]AssetCheck: /Game/Blueprints/Items/BP_Door Validating asset
+[2024.06.02-05.33.06:294][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-05.33.06:314][508]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Items/BP_Door] ([2] browsable assets)...
+[2024.06.02-05.33.06:356][508]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/BP_Door.BP_Door]
+[2024.06.02-05.33.06:356][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Door]
+[2024.06.02-05.33.06:361][508]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Door
+[2024.06.02-05.33.06:362][508]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_Door00BAAA894DCB7B7E9079C7BF12887312.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/Items/BP_Door.uasset'
+[2024.06.02-05.33.06:369][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.223 ms (total: 860.928 ms)
+[2024.06.02-05.33.06:390][508]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.02-05.33.06:390][508]LogContentValidation: Enabled validators:
+[2024.06.02-05.33.06:390][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.02-05.33.06:390][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.02-05.33.06:390][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.02-05.33.06:390][508]LogContentValidation: Display: Validating asset /Game/Blueprints/Items/BP_Door.BP_Door
+[2024.06.02-05.33.06:391][508]AssetCheck: /Game/Blueprints/Items/BP_Door Validating asset
+[2024.06.02-05.35.37:162][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-05.35.37:181][631]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Items/BP_Door] ([2] browsable assets)...
+[2024.06.02-05.35.37:223][631]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/BP_Door.BP_Door]
+[2024.06.02-05.35.37:223][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Door]
+[2024.06.02-05.35.37:230][631]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Door
+[2024.06.02-05.35.37:230][631]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_DoorFE42D0BB4A8A59259BE8378E38D2C4BF.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/Items/BP_Door.uasset'
+[2024.06.02-05.35.37:239][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.073 ms (total: 938.002 ms)
+[2024.06.02-05.35.37:264][631]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.02-05.35.37:264][631]LogContentValidation: Enabled validators:
+[2024.06.02-05.35.37:265][631]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.02-05.35.37:265][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.02-05.35.37:265][631]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.02-05.35.37:265][631]LogContentValidation: Display: Validating asset /Game/Blueprints/Items/BP_Door.BP_Door
+[2024.06.02-05.35.37:265][631]AssetCheck: /Game/Blueprints/Items/BP_Door Validating asset
+[2024.06.02-05.35.38:251][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.06.02-05.35.38:570][738]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-05.35.38:599][738]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Items/BP_Door] ([2] browsable assets)...
+[2024.06.02-05.35.38:641][738]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/BP_Door.BP_Door]
+[2024.06.02-05.35.38:641][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Door]
+[2024.06.02-05.35.38:647][738]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Door
+[2024.06.02-05.35.38:648][738]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_Door1150DF5C412B3FCB7A1D8096D19865F2.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/Items/BP_Door.uasset'
+[2024.06.02-05.35.38:657][738]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.485 ms (total: 1.02 sec)
+[2024.06.02-05.35.38:680][738]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.02-05.35.38:680][738]LogContentValidation: Enabled validators:
+[2024.06.02-05.35.38:680][738]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.02-05.35.38:680][738]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.02-05.35.38:680][738]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.02-05.35.38:680][738]LogContentValidation: Display: Validating asset /Game/Blueprints/Items/BP_Door.BP_Door
+[2024.06.02-05.35.38:680][738]AssetCheck: /Game/Blueprints/Items/BP_Door Validating asset
+[2024.06.02-05.35.40:966][940]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Items/BP_Door.BP_Door_C
+[2024.06.02-05.35.40:966][940]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Items/BP_Door.BP_Door_C
+[2024.06.02-05.35.40:968][940]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Items/BP_Door.BP_Door as actor: BP_Door_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Door_C_0
+[2024.06.02-05.35.40:969][940]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Items/BP_Door.BP_Door as actor: BP_Door_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Door_C_0
+[2024.06.02-05.35.42:367][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.06.02-05.35.42:390][ 45]LogEditorActor: Deleted 0 Actors (0.043 secs)
+[2024.06.02-05.35.42:395][ 45]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Items/BP_Door.BP_Door_C
+[2024.06.02-05.35.42:395][ 45]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Items/BP_Door.BP_Door_C
+[2024.06.02-05.35.42:399][ 45]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Items/BP_Door.BP_Door as actor: BP_Door_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Door_C_UAID_7085C298810555FB01_2049261177
+[2024.06.02-05.35.42:401][ 45]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Items/BP_Door.BP_Door as actor: BP_Door_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Door_C_UAID_7085C298810555FB01_2049261177
+[2024.06.02-05.35.49:597][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-05.35.49:627][739]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/NQ/QMNJQJGAI6NXT8HL28JN26
+[2024.06.02-05.35.49:627][739]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/QMNJQJGAI6NXT8HL28JN260212693F419D223B816C238DBAF9AFAA.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/NQ/QMNJQJGAI6NXT8HL28JN26.uasset'
+[2024.06.02-05.35.49:631][739]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/4Y/9E94ZB0YIA4KJUHHC05K92
+[2024.06.02-05.35.49:631][739]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/9E94ZB0YIA4KJUHHC05K924913906E4E011BF67A9CBCBF5D23D75F.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/4Y/9E94ZB0YIA4KJUHHC05K92.uasset'
+[2024.06.02-05.35.49:640][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.034 ms (total: 1.06 sec)
+[2024.06.02-05.35.49:664][739]LogContentValidation: Display: Starting to validate 2 assets
+[2024.06.02-05.35.49:664][739]LogContentValidation: Enabled validators:
+[2024.06.02-05.35.49:664][739]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.02-05.35.49:664][739]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.02-05.35.49:664][739]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.02-05.35.49:664][739]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2024.06.02-05.35.49:664][739]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2024.06.02-05.35.59:406][471]LogEditorTransaction: Undo Modify Component(s)
+[2024.06.02-05.36.05:591][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-05.36.05:613][907]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Items/BP_Door] ([2] browsable assets)...
+[2024.06.02-05.36.05:620][907]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/BP_Door.BP_Door]
+[2024.06.02-05.36.05:620][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Door]
+[2024.06.02-05.36.05:627][907]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Door
+[2024.06.02-05.36.05:627][907]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_Door37B8074D47CCDF256E660CA4651C0F38.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/Items/BP_Door.uasset'
+[2024.06.02-05.36.05:635][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.912 ms (total: 1.11 sec)
+[2024.06.02-05.36.05:658][907]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.02-05.36.05:658][907]LogContentValidation: Enabled validators:
+[2024.06.02-05.36.05:658][907]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.02-05.36.05:658][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.02-05.36.05:658][907]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.02-05.36.05:658][907]LogContentValidation: Display: Validating asset /Game/Blueprints/Items/BP_Door.BP_Door
+[2024.06.02-05.36.05:658][907]AssetCheck: /Game/Blueprints/Items/BP_Door Validating asset
+[2024.06.02-05.36.06:087][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.06.02-05.36.06:550][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-05.36.06:573][962]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Items/BP_Door] ([2] browsable assets)...
+[2024.06.02-05.36.06:613][962]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/BP_Door.BP_Door]
+[2024.06.02-05.36.06:613][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Door]
+[2024.06.02-05.36.06:620][962]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Door
+[2024.06.02-05.36.06:621][962]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/BP_DoorBC4E12614D45ACA300AEE9BB357B92F6.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/Items/BP_Door.uasset'
+[2024.06.02-05.36.06:628][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.471 ms (total: 1.18 sec)
+[2024.06.02-05.36.06:652][962]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.02-05.36.06:652][962]LogContentValidation: Enabled validators:
+[2024.06.02-05.36.06:652][962]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.02-05.36.06:652][962]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.02-05.36.06:652][962]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.02-05.36.06:652][962]LogContentValidation: Display: Validating asset /Game/Blueprints/Items/BP_Door.BP_Door
+[2024.06.02-05.36.06:652][962]AssetCheck: /Game/Blueprints/Items/BP_Door Validating asset
+[2024.06.02-05.36.07:326][ 11]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.06.02-05.36.07:335][ 11]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.06.02-05.36.07:335][ 11]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.06.02-05.36.07:337][ 11]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.454 ms (total: 18.189 ms)
+[2024.06.02-05.36.07:339][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.02-05.36.07:388][ 11]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.02-05.36.07:393][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005085s)
+[2024.06.02-05.36.07:393][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005129s)
+[2024.06.02-05.36.07:409][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.06.02-05.36.07:412][ 11]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.02-05.36.07:413][ 11]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.02-05.36.07:413][ 11]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.02-05.36.07:413][ 11]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.02-05.36.07:413][ 11]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.02-05.36.07:415][ 11]LogContentBundle: [FirstPersonMap(Standalone)] Creating new container.
+[2024.06.02-05.36.07:415][ 11]LogWorldPartition: Display: WorldPartition initialize took 1.852 ms (total: 318.786 ms)
+[2024.06.02-05.36.07:415][ 11]LogPlayLevel: PIE: World Init took: (0.002919s)
+[2024.06.02-05.36.07:422][ 11]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.06.02-05.36.07:422][ 11]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.02-05.36.07:422][ 11]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.02-05.36.07:422][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.02-05.36.07:422][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.02-05.36.07:422][ 11]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.02-05.36.07:422][ 11]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.02-05.36.07:422][ 11]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.02-05.36.07:422][ 11]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.02-05.36.07:422][ 11]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.02-05.36.07:422][ 11]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.02-05.36.07:422][ 11]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.02-05.36.07:423][ 11]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.02-05.36.07:446][ 11]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.02-05.36.07:446][ 11]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.02-05.36.07:446][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.02-05.36.07:446][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.02-05.36.07:448][ 11]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.06.02-05.36.07:448][ 11]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.06.02-05.36.07:448][ 11]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.06.02-05.36.07:449][ 11]LogInit: FAudioDevice initialized with ID 9.
+[2024.06.02-05.36.07:449][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.06.02-05.36.07:449][ 11]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonMap'.
+[2024.06.02-05.36.07:449][ 11]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.06.02-05.36.07:472][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.02-05.36.07:472][ 11]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.02-05.36.07:475][ 11]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.06.02-01.36.07
+[2024.06.02-05.36.07:476][ 11]LogWorld: Bringing up level for play took: 0.003119
+[2024.06.02-05.36.07:478][ 11]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.06.02-05.36.07:491][ 11]PIE: Server logged in
+[2024.06.02-05.36.07:492][ 11]PIE: Play in editor total start time 0.161 seconds.
+[2024.06.02-05.37.23:529][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.02-05.37.23:529][357]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.02-05.37.23:529][357]LogSlate: Window 'RetroFPSProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.02-05.37.23:533][357]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-05.37.23:534][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-05.37.23:534][357]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2024.06.02-05.37.23:534][357]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.06.02-05.37.23:534][357]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.02-05.37.23:534][357]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.02-05.37.23:538][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.02-05.37.23:543][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-05.37.23:561][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.02-05.37.23:561][357]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.06.02-05.37.23:561][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.06.02-05.37.23:563][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.06.02-05.37.23:569][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.06.02-05.37.23:660][358]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.06.02-05.39.12:851][559]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.06.02-05.39.12:858][559]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.06.02-05.39.12:858][559]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.06.02-05.39.12:861][559]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.341 ms (total: 20.530 ms)
+[2024.06.02-05.39.12:861][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.02-05.39.12:861][559]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.02-05.39.12:866][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005034s)
+[2024.06.02-05.39.12:867][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005061s)
+[2024.06.02-05.39.12:883][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.06.02-05.39.12:888][559]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.02-05.39.12:889][559]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.02-05.39.12:889][559]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.02-05.39.12:889][559]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.02-05.39.12:889][559]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.02-05.39.12:891][559]LogContentBundle: [FirstPersonMap(Standalone)] Creating new container.
+[2024.06.02-05.39.12:891][559]LogWorldPartition: Display: WorldPartition initialize took 1.840 ms (total: 320.627 ms)
+[2024.06.02-05.39.12:891][559]LogPlayLevel: PIE: World Init took: (0.002804s)
+[2024.06.02-05.39.12:897][559]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.06.02-05.39.12:897][559]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.02-05.39.12:897][559]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.02-05.39.12:897][559]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.02-05.39.12:897][559]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.02-05.39.12:897][559]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.02-05.39.12:897][559]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.02-05.39.12:897][559]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.02-05.39.12:897][559]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.02-05.39.12:897][559]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.02-05.39.12:897][559]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.02-05.39.12:897][559]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.02-05.39.12:899][559]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.02-05.39.12:921][559]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.02-05.39.12:921][559]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.02-05.39.12:921][559]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.02-05.39.12:922][559]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.02-05.39.12:922][559]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.06.02-05.39.12:922][559]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.06.02-05.39.12:923][559]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.06.02-05.39.12:923][559]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.06.02-05.39.12:923][559]LogInit: FAudioDevice initialized with ID 10.
+[2024.06.02-05.39.12:923][559]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonMap'.
+[2024.06.02-05.39.12:923][559]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.06.02-05.39.12:944][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.02-05.39.12:944][559]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.02-05.39.12:947][559]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.06.02-01.39.12
+[2024.06.02-05.39.12:948][559]LogWorld: Bringing up level for play took: 0.003070
+[2024.06.02-05.39.12:950][559]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.06.02-05.39.12:962][559]PIE: Server logged in
+[2024.06.02-05.39.12:965][559]PIE: Play in editor total start time 0.109 seconds.
+[2024.06.02-05.40.46:919][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.02-05.40.46:919][980]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.02-05.40.46:920][980]LogSlate: Window 'RetroFPSProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.02-05.40.46:925][980]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-05.40.46:926][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-05.40.46:926][980]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2024.06.02-05.40.46:926][980]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.06.02-05.40.46:926][980]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.02-05.40.46:926][980]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.02-05.40.46:930][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.02-05.40.46:935][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-05.40.46:952][980]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.06.02-05.40.46:952][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.06.02-05.40.46:953][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.06.02-05.40.46:960][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.06.02-05.40.47:009][981]LogPlayLevel: Display: Destroying online subsystem :Context_17

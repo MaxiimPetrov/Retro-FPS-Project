@@ -1455,3 +1455,250 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.02-17.54.56:571][ 11]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
 [2024.06.02-17.54.56:571][ 11]LogShaderCompilers: Display: Material Cache Hits: 26 (17%)
 [2024.06.02-17.54.56:571][ 11]LogShaderCompilers: Display: ================================================
+[2024.06.02-18.47.39:083][ 61]LogDerivedDataCache: C:/Users/Max/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.02-19.47.39:084][859]LogDerivedDataCache: C:/Users/Max/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.02-20.21.19:202][845]LogSlate: Took 0.007065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.06.02-20.21.58:454][922]LogShaderCompilers: Display: ================================================
+[2024.06.02-20.21.58:454][922]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.02-20.21.58:454][922]LogShaderCompilers: Display: Total job queries 393, among them cache hits 129 (32.82%), DDC hits 192 (48.85%), Duplicates 7 (1.78%)
+[2024.06.02-20.21.58:454][922]LogShaderCompilers: Display: Tracking 257 distinct input hashes that result in 218 distinct outputs (84.82%)
+[2024.06.02-20.21.58:454][922]LogShaderCompilers: Display: RAM used: 6.96 MiB of 1.60 GiB budget. Usage: 0.42%
+[2024.06.02-20.21.58:454][922]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.02-20.21.58:454][922]LogShaderCompilers: Display: Shaders Compiled: 64
+[2024.06.02-20.21.58:454][922]LogShaderCompilers: Display: Jobs assigned 65, completed 64 (98.46%)
+[2024.06.02-20.21.58:454][922]LogShaderCompilers: Display: Average time worker was idle: 654.86 s
+[2024.06.02-20.21.58:454][922]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2024.06.02-20.21.58:454][922]LogShaderCompilers: Display: Job execution time: average 0.69 s, max 1.35 s
+[2024.06.02-20.21.58:454][922]LogShaderCompilers: Display: Job life time (pending + execution): average 0.75 s, max 1.40
+[2024.06.02-20.21.58:454][922]LogShaderCompilers: Display: Shader code size: average 37.121 KiB, min 27.621 KiB, max 63.211 KiB
+[2024.06.02-20.21.58:454][922]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.41 s
+[2024.06.02-20.21.58:454][922]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display: Jobs were issued in 65 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display: Average processing rate: 4.77 jobs/sec
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display: Total thread time: 22.182 s
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display: Total thread preprocess time: 5.073 s
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display: Percentage time preprocessing: 22.87%
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display: Effective parallelization: 1.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   17 times, average 0.42 sec, max 0.56 sec, min 0.35 sec)
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.39 sec, max 0.40 sec, min 0.39 sec)
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.39 sec, max 0.40 sec, min 0.37 sec)
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.82% of total time (compiled   17 times, average 0.42 sec, max 0.56 sec, min 0.35 sec)
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 15.47% of total time (compiled   12 times, average 0.29 sec, max 0.39 sec, min 0.22 sec)
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.61% of total time (compiled   10 times, average 0.24 sec, max 0.28 sec, min 0.19 sec)
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.30% of total time (compiled    2 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.44% of total time (compiled    7 times, average 0.20 sec, max 0.26 sec, min 0.17 sec)
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display: === Material stats ===
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display: Materials Translated:    150
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display: Material Translation Only: 0.04 s (40%)
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display: Material Cache Hits: 26 (17%)
+[2024.06.02-20.21.58:455][922]LogShaderCompilers: Display: ================================================
+[2024.06.02-20.22.13:115][282]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.13:115][282]LogEditorTransaction: Undo Cube Grid Selection Change
+[2024.06.02-20.22.13:396][291]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.13:396][291]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.13:719][304]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.13:719][304]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.13:954][331]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.13:954][331]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.14:112][349]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.14:112][349]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.14:288][368]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.14:288][368]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.14:447][386]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.14:447][386]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.14:605][404]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.14:605][404]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.14:764][422]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.14:764][422]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.14:914][439]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.14:914][439]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.15:089][459]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.15:089][459]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.33:816][390]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.33:816][390]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.33:980][395]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.33:980][395]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.34:152][400]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.34:152][400]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.34:419][413]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.34:419][413]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.34:628][435]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.34:628][435]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.34:773][451]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.34:774][451]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.34:932][469]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.34:932][469]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.35:065][484]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.35:065][484]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.35:232][502]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.35:232][502]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.35:402][520]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.35:402][520]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.35:552][537]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.35:552][537]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.35:712][555]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.35:712][555]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.35:862][572]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.35:862][572]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.36:021][590]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.36:021][590]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.36:180][608]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.36:180][608]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.36:483][643]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.36:483][643]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.46:022][354]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.46:022][354]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.46:203][361]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.46:203][361]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.53:119][954]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.53:119][954]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.53:417][966]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.53:417][966]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.53:590][972]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.53:590][972]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.53:717][982]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.53:717][982]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.53:852][997]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.53:852][997]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.53:988][ 12]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.53:988][ 12]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.22.54:150][ 30]Cmd: TRANSACTION UNDO
+[2024.06.02-20.22.54:150][ 30]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: ================================================
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Total job queries 456, among them cache hits 152 (33.33%), DDC hits 203 (44.52%), Duplicates 7 (1.54%)
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Tracking 297 distinct input hashes that result in 246 distinct outputs (82.83%)
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: RAM used: 7.58 MiB of 1.60 GiB budget. Usage: 0.46%
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Shaders Compiled: 94
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Jobs assigned 94, completed 94 (100%)
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Average time worker was idle: 865.70 s
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Job execution time: average 0.62 s, max 1.35 s
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Job life time (pending + execution): average 0.69 s, max 1.40
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Shader code size: average 35.728 KiB, min 7.246 KiB, max 63.211 KiB
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.65 s
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Jobs were issued in 94 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Average processing rate: 4.55 jobs/sec
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Total thread time: 31.666 s
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Total thread preprocess time: 5.681 s
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Percentage time preprocessing: 17.94%
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Effective parallelization: 1.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   30 times, average 0.40 sec, max 0.56 sec, min 0.34 sec)
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.39 sec, max 0.40 sec, min 0.39 sec)
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.39 sec, max 0.40 sec, min 0.37 sec)
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 37.49% of total time (compiled   30 times, average 0.40 sec, max 0.56 sec, min 0.34 sec)
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 16.92% of total time (compiled   20 times, average 0.27 sec, max 0.39 sec, min 0.22 sec)
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.66% of total time (compiled   12 times, average 0.23 sec, max 0.28 sec, min 0.18 sec)
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.82% of total time (compiled    9 times, average 0.20 sec, max 0.26 sec, min 0.17 sec)
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.12% of total time (compiled    2 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: === Material stats ===
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Materials Translated:    153
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Material Translation Only: 0.04 s (40%)
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: Material Cache Hits: 26 (17%)
+[2024.06.02-20.24.58:456][ 26]LogShaderCompilers: Display: ================================================
+[2024.06.02-20.26.23:421][759]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.23:421][759]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.26.23:595][766]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.23:595][766]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.26.23:732][771]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.23:732][771]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.26.23:872][776]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.23:872][776]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.26.24:029][788]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.24:029][788]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.26.24:179][805]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.24:179][805]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.26.24:329][822]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.24:329][822]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.26.24:506][842]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.24:506][842]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.26.24:665][860]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.24:665][860]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.26.24:815][877]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.24:815][877]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.26.24:979][895]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.24:979][895]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.26.25:131][910]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.25:131][910]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.26.25:405][938]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.25:405][938]LogEditorTransaction: Undo Cube Grid Selection Change
+[2024.06.02-20.26.25:594][959]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.25:594][959]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.26.25:751][976]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.25:751][976]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.26.25:876][989]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.25:876][989]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.26.26:084][ 10]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.26:084][ 10]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.26.26:350][ 36]Cmd: TRANSACTION UNDO
+[2024.06.02-20.26.26:350][ 36]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.29.55:719][170]Cmd: TRANSACTION UNDO
+[2024.06.02-20.29.55:719][170]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.29.56:025][180]Cmd: TRANSACTION UNDO
+[2024.06.02-20.29.56:025][180]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.29.56:203][185]Cmd: TRANSACTION UNDO
+[2024.06.02-20.29.56:203][185]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.29.56:351][195]Cmd: TRANSACTION UNDO
+[2024.06.02-20.29.56:351][195]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.30.22:264][ 91]Cmd: TRANSACTION UNDO
+[2024.06.02-20.30.22:264][ 91]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.30.22:429][ 95]Cmd: TRANSACTION UNDO
+[2024.06.02-20.30.22:429][ 95]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.30.22:580][ 99]Cmd: TRANSACTION UNDO
+[2024.06.02-20.30.22:580][ 99]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.30.22:724][103]Cmd: TRANSACTION UNDO
+[2024.06.02-20.30.22:724][103]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.30.22:925][120]Cmd: TRANSACTION UNDO
+[2024.06.02-20.30.22:925][120]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.31.41:978][ 30]Cmd: TRANSACTION UNDO
+[2024.06.02-20.31.41:978][ 30]LogEditorTransaction: Undo Cube Grid Selection Change
+[2024.06.02-20.31.49:823][863]Cmd: TRANSACTION UNDO
+[2024.06.02-20.31.49:823][863]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.33.00:230][780]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.06.02-20.33.18:904][778]Cmd: TRANSACTION UNDO
+[2024.06.02-20.33.18:904][778]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.37.01:801][422]Cmd: TRANSACTION UNDO
+[2024.06.02-20.37.01:801][422]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.37.02:501][461]Cmd: TRANSACTION UNDO
+[2024.06.02-20.37.02:501][461]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.37.02:696][482]Cmd: TRANSACTION UNDO
+[2024.06.02-20.37.02:696][482]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.37.02:865][499]Cmd: TRANSACTION UNDO
+[2024.06.02-20.37.02:865][499]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.37.03:135][525]Cmd: TRANSACTION UNDO
+[2024.06.02-20.37.03:135][525]LogEditorTransaction: Undo Block Tool Change
+[2024.06.02-20.39.20:462][638]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Max/CubeGridToolOutput_7D346EA8.CubeGridToolOutput_7D346EA8
+[2024.06.02-20.39.20:463][638]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_7D346EA8 (Required Memory Estimate: 4.361629 MB)...
+[2024.06.02-20.39.20:464][638]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Max/CubeGridToolOutput_7D346EA8.CubeGridToolOutput_7D346EA8 as actor: StaticMeshActor /Game/Levels/LevelPrototype.LevelPrototype:PersistentLevel.StaticMeshActor_0
+[2024.06.02-20.39.20:464][638]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/Max/CubeGridToolOutput_7D346EA8) ...
+[2024.06.02-20.39.20:475][638]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/Max/CubeGridToolOutput_7D346EA8.CubeGridToolOutput_7D346EA8
+[2024.06.02-20.39.20:495][638]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/Max/CubeGridToolOutput_7D346EA8) ...
+[2024.06.02-20.39.36:491][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-20.39.36:561][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.06.02-20.39.36:567][998]LogSavePackage: Moving output files for package: /Game/Levels/LevelPrototype
+[2024.06.02-20.39.36:568][998]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/LevelPrototypeF84854594CD325F79612BEB65BDD5289.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Levels/LevelPrototype.umap'
+[2024.06.02-20.39.36:573][998]LogFileHelpers: Saving map 'LevelPrototype' took 0.057
+[2024.06.02-20.39.36:584][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.122 ms
+[2024.06.02-20.39.36:610][998]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.02-20.39.36:610][998]LogContentValidation: Enabled validators:
+[2024.06.02-20.39.36:610][998]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.02-20.39.36:610][998]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.02-20.39.36:610][998]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.02-20.39.36:610][998]LogContentValidation: Display: Validating asset /Game/Levels/LevelPrototype.LevelPrototype
+[2024.06.02-20.39.36:610][998]AssetCheck: /Game/Levels/LevelPrototype Validating asset

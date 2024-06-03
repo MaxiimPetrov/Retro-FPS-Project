@@ -1540,3 +1540,302 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.03-03.00.48:195][641]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.06.03-03.00.48:195][641]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/PlayerHUD.PlayerHUD
 [2024.06.03-03.00.48:195][641]AssetCheck: /Game/Blueprints/UI/PlayerHUD Validating asset
+[2024.06.03-03.06.18:970][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.06.03-03.06.19:481][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-03.06.19:507][574]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/PlayerHUD] ([2] browsable assets)...
+[2024.06.03-03.06.19:510][574]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/PlayerHUD.PlayerHUD]
+[2024.06.03-03.06.19:510][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/PlayerHUD]
+[2024.06.03-03.06.19:558][574]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/PlayerHUD
+[2024.06.03-03.06.19:559][574]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/PlayerHUDD5D9D1A04DB5F709C5CEEFA25F7A033D.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/UI/PlayerHUD.uasset'
+[2024.06.03-03.06.19:568][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.735 ms (total: 1.05 sec)
+[2024.06.03-03.06.19:595][574]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.03-03.06.19:595][574]LogContentValidation: Enabled validators:
+[2024.06.03-03.06.19:595][574]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.03-03.06.19:595][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.03-03.06.19:595][574]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.03-03.06.19:595][574]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/PlayerHUD.PlayerHUD
+[2024.06.03-03.06.19:596][574]AssetCheck: /Game/Blueprints/UI/PlayerHUD Validating asset
+[2024.06.03-03.08.52:416][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-03.08.52:441][473]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/PlayerHUD] ([2] browsable assets)...
+[2024.06.03-03.08.52:441][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/PlayerHUD]
+[2024.06.03-03.08.52:476][473]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/PlayerHUD
+[2024.06.03-03.08.52:477][473]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/PlayerHUDF025F7A349C3FC2DDF661AB60EE326A1.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/UI/PlayerHUD.uasset'
+[2024.06.03-03.08.52:485][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.610 ms (total: 1.12 sec)
+[2024.06.03-03.08.52:513][473]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.03-03.08.52:513][473]LogContentValidation: Enabled validators:
+[2024.06.03-03.08.52:513][473]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.03-03.08.52:513][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.03-03.08.52:513][473]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.03-03.08.52:513][473]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/PlayerHUD.PlayerHUD
+[2024.06.03-03.08.52:514][473]AssetCheck: /Game/Blueprints/UI/PlayerHUD Validating asset
+[2024.06.03-03.09.57:148][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-03.09.57:171][778]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/PlayerHUD] ([2] browsable assets)...
+[2024.06.03-03.09.57:173][778]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/PlayerHUD.PlayerHUD]
+[2024.06.03-03.09.57:173][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/PlayerHUD]
+[2024.06.03-03.09.57:211][778]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/PlayerHUD
+[2024.06.03-03.09.57:212][778]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/PlayerHUD024A8D164773E6A33B18A4800BF84FB1.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/UI/PlayerHUD.uasset'
+[2024.06.03-03.09.57:219][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.349 ms (total: 1.19 sec)
+[2024.06.03-03.09.57:243][778]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.03-03.09.57:243][778]LogContentValidation: Enabled validators:
+[2024.06.03-03.09.57:243][778]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.03-03.09.57:243][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.03-03.09.57:243][778]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.03-03.09.57:243][778]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/PlayerHUD.PlayerHUD
+[2024.06.03-03.09.57:244][778]AssetCheck: /Game/Blueprints/UI/PlayerHUD Validating asset
+[2024.06.03-03.09.58:393][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.06.03-03.09.59:132][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-03.09.59:155][874]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/PlayerHUD] ([2] browsable assets)...
+[2024.06.03-03.09.59:157][874]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/PlayerHUD.PlayerHUD]
+[2024.06.03-03.09.59:157][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/PlayerHUD]
+[2024.06.03-03.09.59:195][874]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/PlayerHUD
+[2024.06.03-03.09.59:196][874]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/PlayerHUD64D22A244E329B6CAAF4DC9AFF8CE62E.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/UI/PlayerHUD.uasset'
+[2024.06.03-03.09.59:203][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.857 ms (total: 1.26 sec)
+[2024.06.03-03.09.59:226][874]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.03-03.09.59:226][874]LogContentValidation: Enabled validators:
+[2024.06.03-03.09.59:226][874]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.03-03.09.59:226][874]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.03-03.09.59:226][874]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.03-03.09.59:226][874]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/PlayerHUD.PlayerHUD
+[2024.06.03-03.09.59:227][874]AssetCheck: /Game/Blueprints/UI/PlayerHUD Validating asset
+[2024.06.03-03.10.21:561][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-03.10.21:587][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/PlayerHUD] ([2] browsable assets)...
+[2024.06.03-03.10.21:587][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/PlayerHUD]
+[2024.06.03-03.10.21:624][907]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/PlayerHUD
+[2024.06.03-03.10.21:625][907]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/PlayerHUDA1D8E0A84E3539D0BF5530BFDC8CE7D9.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/UI/PlayerHUD.uasset'
+[2024.06.03-03.10.21:632][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.920 ms (total: 1.33 sec)
+[2024.06.03-03.10.21:660][907]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.03-03.10.21:660][907]LogContentValidation: Enabled validators:
+[2024.06.03-03.10.21:660][907]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.03-03.10.21:660][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.03-03.10.21:660][907]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.03-03.10.21:660][907]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/PlayerHUD.PlayerHUD
+[2024.06.03-03.10.21:660][907]AssetCheck: /Game/Blueprints/UI/PlayerHUD Validating asset
+[2024.06.03-03.12.40:581][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.06.03-03.12.40:589][718]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelPrototype' took 0.028
+[2024.06.03-03.12.40:589][718]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/PlayerHUD] ([2] browsable assets)...
+[2024.06.03-03.12.40:593][718]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/PlayerHUD.PlayerHUD]
+[2024.06.03-03.12.40:593][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/PlayerHUD]
+[2024.06.03-03.12.40:631][718]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/PlayerHUD_Auto2
+[2024.06.03-03.12.40:631][718]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/PlayerHUD_Auto232FCAE474DB2D127E651F6867EA0D080.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/Autosaves/Game/Blueprints/UI/PlayerHUD_Auto2.uasset'
+[2024.06.03-03.12.40:632][718]LogFileHelpers: Auto-saving content packages took 0.043
+[2024.06.03-03.14.49:708][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-03.14.49:733][825]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/PlayerHUD] ([2] browsable assets)...
+[2024.06.03-03.14.49:735][825]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/PlayerHUD.PlayerHUD]
+[2024.06.03-03.14.49:735][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/PlayerHUD]
+[2024.06.03-03.14.49:774][825]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/PlayerHUD
+[2024.06.03-03.14.49:774][825]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/PlayerHUD9608F1BF4F388140E0EA4F8B0AF9ABC7.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/UI/PlayerHUD.uasset'
+[2024.06.03-03.14.49:781][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.425 ms (total: 1.40 sec)
+[2024.06.03-03.14.49:804][825]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.03-03.14.49:804][825]LogContentValidation: Enabled validators:
+[2024.06.03-03.14.49:804][825]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.03-03.14.49:804][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.03-03.14.49:804][825]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.03-03.14.49:804][825]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/PlayerHUD.PlayerHUD
+[2024.06.03-03.14.49:805][825]AssetCheck: /Game/Blueprints/UI/PlayerHUD Validating asset
+[2024.06.03-03.15.57:883][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-03.15.57:916][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/PlayerHUD] ([2] browsable assets)...
+[2024.06.03-03.15.57:918][298]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/PlayerHUD.PlayerHUD]
+[2024.06.03-03.15.57:918][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/PlayerHUD]
+[2024.06.03-03.15.57:957][298]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/PlayerHUD
+[2024.06.03-03.15.57:957][298]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/PlayerHUD6E6EC72741C7B8D5EA9DDFB8ABD8B30A.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/UI/PlayerHUD.uasset'
+[2024.06.03-03.15.57:965][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.022 ms (total: 1.48 sec)
+[2024.06.03-03.15.57:991][298]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.03-03.15.57:991][298]LogContentValidation: Enabled validators:
+[2024.06.03-03.15.57:991][298]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.03-03.15.57:991][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.03-03.15.57:991][298]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.03-03.15.57:991][298]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/PlayerHUD.PlayerHUD
+[2024.06.03-03.15.57:992][298]AssetCheck: /Game/Blueprints/UI/PlayerHUD Validating asset
+[2024.06.03-03.16.01:842][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.06.03-03.16.02:213][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-03.16.02:242][574]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/PlayerHUD] ([2] browsable assets)...
+[2024.06.03-03.16.02:244][574]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/PlayerHUD.PlayerHUD]
+[2024.06.03-03.16.02:244][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/PlayerHUD]
+[2024.06.03-03.16.02:285][574]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/PlayerHUD
+[2024.06.03-03.16.02:285][574]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/PlayerHUD2B48BC1F4E482D17839EE4891555A89F.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/UI/PlayerHUD.uasset'
+[2024.06.03-03.16.02:293][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.982 ms (total: 1.56 sec)
+[2024.06.03-03.16.02:314][574]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.03-03.16.02:314][574]LogContentValidation: Enabled validators:
+[2024.06.03-03.16.02:314][574]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.03-03.16.02:314][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.03-03.16.02:314][574]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.03-03.16.02:314][574]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/PlayerHUD.PlayerHUD
+[2024.06.03-03.16.02:315][574]AssetCheck: /Game/Blueprints/UI/PlayerHUD Validating asset
+[2024.06.03-03.16.02:943][631]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.06.03-03.16.02:954][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.03-03.16.02:982][631]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.06.03-03.16.02:982][631]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.06.03-03.16.02:982][631]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelPrototype
+[2024.06.03-03.16.02:992][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009464s)
+[2024.06.03-03.16.02:992][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototype.LevelPrototype to /Game/Levels/UEDPIE_0_LevelPrototype.LevelPrototype (0.009511s)
+[2024.06.03-03.16.03:011][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.06.03-03.16.03:020][631]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.03-03.16.03:021][631]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2024.06.03-03.16.03:028][631]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.06.03-03.16.03:028][631]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.03-03.16.03:028][631]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.03-03.16.03:028][631]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.03-03.16.03:028][631]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.03-03.16.03:028][631]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.03-03.16.03:028][631]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.03-03.16.03:028][631]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.03-03.16.03:028][631]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.03-03.16.03:028][631]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.03-03.16.03:028][631]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.03-03.16.03:028][631]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.03-03.16.03:029][631]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.03-03.16.03:051][631]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.03-03.16.03:052][631]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.03-03.16.03:052][631]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.03-03.16.03:052][631]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.03-03.16.03:052][631]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.06.03-03.16.03:052][631]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.06.03-03.16.03:053][631]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.06.03-03.16.03:053][631]LogInit: FAudioDevice initialized with ID 2.
+[2024.06.03-03.16.03:053][631]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.06.03-03.16.03:053][631]LogAudio: Display: Audio Device (ID: 2) registered with world 'LevelPrototype'.
+[2024.06.03-03.16.03:053][631]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.06.03-03.16.03:075][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.16.03:075][631]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.03-03.16.03:079][631]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelPrototype.LevelPrototype up for play (max tick rate 0) at 2024.06.02-23.16.03
+[2024.06.03-03.16.03:083][631]LogWorld: Bringing up level for play took: 0.007053
+[2024.06.03-03.16.03:085][631]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.06.03-03.16.03:111][631]PIE: Server logged in
+[2024.06.03-03.16.03:119][631]PIE: Play in editor total start time 0.17 seconds.
+[2024.06.03-03.16.04:210][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.16.04:210][703]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelPrototype
+[2024.06.03-03.16.04:211][703]LogSlate: Window 'RetroFPSProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.03-03.16.04:217][703]LogWorld: UWorld::CleanupWorld for LevelPrototype, bSessionEnded=true, bCleanupResources=true
+[2024.06.03-03.16.04:218][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.16.04:218][703]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.03-03.16.04:218][703]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.03-03.16.04:220][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.03-03.16.04:226][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.16.04:243][703]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.03-03.16.04:243][703]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.06.03-03.16.04:244][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.06.03-03.16.04:245][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.06.03-03.16.04:251][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.06.03-03.16.04:292][704]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.06.03-03.16.13:003][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.06.03-03.16.13:527][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-03.16.13:553][122]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/PlayerHUD] ([2] browsable assets)...
+[2024.06.03-03.16.13:555][122]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/PlayerHUD.PlayerHUD]
+[2024.06.03-03.16.13:555][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/PlayerHUD]
+[2024.06.03-03.16.13:595][122]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/PlayerHUD
+[2024.06.03-03.16.13:596][122]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Saved/PlayerHUDA56A52BA4D989F7E7CD636AD5B945BC0.tmp' to '../../../../../../Users/Max/Desktop/Retro FPS Project/Retro-FPS-Project/RetroFPSProject/Content/Blueprints/UI/PlayerHUD.uasset'
+[2024.06.03-03.16.13:604][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.436 ms (total: 1.64 sec)
+[2024.06.03-03.16.13:630][122]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.03-03.16.13:630][122]LogContentValidation: Enabled validators:
+[2024.06.03-03.16.13:630][122]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.03-03.16.13:630][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.03-03.16.13:630][122]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.03-03.16.13:630][122]LogContentValidation: Display: Validating asset /Game/Blueprints/UI/PlayerHUD.PlayerHUD
+[2024.06.03-03.16.13:631][122]AssetCheck: /Game/Blueprints/UI/PlayerHUD Validating asset
+[2024.06.03-03.16.15:246][263]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.06.03-03.16.15:256][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.03-03.16.15:256][263]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelPrototype
+[2024.06.03-03.16.15:264][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008016s)
+[2024.06.03-03.16.15:264][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototype.LevelPrototype to /Game/Levels/UEDPIE_0_LevelPrototype.LevelPrototype (0.008044s)
+[2024.06.03-03.16.15:283][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.06.03-03.16.15:289][263]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.03-03.16.15:290][263]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2024.06.03-03.16.15:296][263]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.06.03-03.16.15:297][263]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.03-03.16.15:297][263]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.03-03.16.15:297][263]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.03-03.16.15:297][263]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.03-03.16.15:297][263]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.03-03.16.15:297][263]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.03-03.16.15:297][263]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.03-03.16.15:297][263]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.03-03.16.15:297][263]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.03-03.16.15:297][263]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.03-03.16.15:297][263]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.03-03.16.15:298][263]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.03-03.16.15:320][263]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.03-03.16.15:320][263]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.03-03.16.15:320][263]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.03-03.16.15:320][263]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.03-03.16.15:320][263]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.06.03-03.16.15:320][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.06.03-03.16.15:321][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.06.03-03.16.15:321][263]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.06.03-03.16.15:321][263]LogInit: FAudioDevice initialized with ID 3.
+[2024.06.03-03.16.15:321][263]LogAudio: Display: Audio Device (ID: 3) registered with world 'LevelPrototype'.
+[2024.06.03-03.16.15:321][263]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.06.03-03.16.15:347][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.16.15:347][263]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.03-03.16.15:350][263]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelPrototype.LevelPrototype up for play (max tick rate 0) at 2024.06.02-23.16.15
+[2024.06.03-03.16.15:354][263]LogWorld: Bringing up level for play took: 0.006643
+[2024.06.03-03.16.15:356][263]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.06.03-03.16.15:368][263]PIE: Server logged in
+[2024.06.03-03.16.15:370][263]PIE: Play in editor total start time 0.117 seconds.
+[2024.06.03-03.16.45:961][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.16.45:961][ 84]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelPrototype
+[2024.06.03-03.16.45:962][ 84]LogSlate: Window 'RetroFPSProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.03-03.16.45:967][ 84]LogWorld: UWorld::CleanupWorld for LevelPrototype, bSessionEnded=true, bCleanupResources=true
+[2024.06.03-03.16.45:968][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.16.45:968][ 84]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.03-03.16.45:968][ 84]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.03-03.16.45:970][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.03-03.16.45:976][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.16.45:993][ 84]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.03-03.16.45:994][ 84]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.06.03-03.16.45:994][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.06.03-03.16.45:996][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.06.03-03.16.46:002][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.06.03-03.16.46:038][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.06.03-03.21.13:747][208]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.06.03-03.21.13:757][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.03-03.21.13:789][208]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelPrototype
+[2024.06.03-03.21.13:798][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008911s)
+[2024.06.03-03.21.13:798][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototype.LevelPrototype to /Game/Levels/UEDPIE_0_LevelPrototype.LevelPrototype (0.008963s)
+[2024.06.03-03.21.13:816][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.06.03-03.21.13:817][208]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.03-03.21.13:818][208]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2024.06.03-03.21.13:825][208]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.06.03-03.21.13:825][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.03-03.21.13:825][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.03-03.21.13:825][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.03-03.21.13:825][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.03-03.21.13:825][208]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.03-03.21.13:825][208]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.03-03.21.13:825][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.03-03.21.13:825][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.03-03.21.13:825][208]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.03-03.21.13:825][208]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.03-03.21.13:825][208]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.03-03.21.13:826][208]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.03-03.21.13:848][208]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.06.03-03.21.13:848][208]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.03-03.21.13:848][208]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.03-03.21.13:848][208]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.03-03.21.13:849][208]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.06.03-03.21.13:849][208]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.06.03-03.21.13:850][208]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.06.03-03.21.13:850][208]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.06.03-03.21.13:850][208]LogInit: FAudioDevice initialized with ID 4.
+[2024.06.03-03.21.13:850][208]LogAudio: Display: Audio Device (ID: 4) registered with world 'LevelPrototype'.
+[2024.06.03-03.21.13:850][208]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.06.03-03.21.13:876][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.21.13:876][208]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.03-03.21.13:880][208]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelPrototype.LevelPrototype up for play (max tick rate 0) at 2024.06.02-23.21.13
+[2024.06.03-03.21.13:883][208]LogWorld: Bringing up level for play took: 0.006614
+[2024.06.03-03.21.13:885][208]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.06.03-03.21.13:897][208]PIE: Server logged in
+[2024.06.03-03.21.13:899][208]PIE: Play in editor total start time 0.145 seconds.
+[2024.06.03-03.21.15:630][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.21.15:630][357]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelPrototype
+[2024.06.03-03.21.15:631][357]LogSlate: Window 'RetroFPSProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.03-03.21.15:636][357]LogWorld: UWorld::CleanupWorld for LevelPrototype, bSessionEnded=true, bCleanupResources=true
+[2024.06.03-03.21.15:637][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.21.15:637][357]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.03-03.21.15:637][357]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.03-03.21.15:639][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.03-03.21.15:645][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.21.15:663][357]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.06.03-03.21.15:664][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.06.03-03.21.15:665][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.06.03-03.21.15:672][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.06.03-03.21.15:707][358]LogPlayLevel: Display: Destroying online subsystem :Context_12

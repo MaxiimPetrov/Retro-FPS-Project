@@ -4,7 +4,7 @@ Engine/Binaries/Win64/OpenImageDenoise.dll	2024-05-26T04:14:52.565Z
 Engine/Binaries/Win64/tbb.dll	2024-05-26T04:14:55.695Z
 Engine/Binaries/Win64/tbb12.dll	2024-05-26T04:14:55.751Z
 Engine/Binaries/Win64/tbbmalloc.dll	2024-05-26T04:14:55.751Z
-Engine/Binaries/Win64/UnrealGame-Win64-DebugGame.exe	2024-05-26T04:15:10.960Z
+Engine/Binaries/Win64/UnrealGame.exe	2024-05-26T04:15:17.369Z
 Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2024-05-26T04:17:17.787Z
 Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2024-05-26T04:14:13.506Z
 Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2024-05-26T04:14:37.554Z
@@ -16,4 +16,14 @@ Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2024-05-26T04:14:42.965Z
 Engine/Content/Renderer/TessellationTable.bin	2024-05-26T04:16:01.396Z
 Engine/Content/Slate/Cursor/invisible.cur	2024-05-26T04:16:01.476Z
-RetroFPSProject.exe	2024-06-04T03:41:09.680Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.dll	2024-05-26T04:14:42.310Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.json	2024-05-26T04:14:42.310Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.dll	2024-05-26T04:14:42.313Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.json	2024-05-26T04:14:42.314Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profiles.dll	2024-05-26T04:14:42.316Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profiles.json	2024-05-26T04:14:42.350Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.dll	2024-05-26T04:14:42.350Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.json	2024-05-26T04:14:42.351Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.dll	2024-05-26T04:14:42.702Z
+Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.json	2024-05-26T04:14:42.703Z
+RetroFPSProject.exe	2024-06-04T03:52:00.399Z

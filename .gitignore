@@ -1,3 +1,8 @@
 *.json
 RetroFPSProject/Saved/Autosaves/PackageRestoreData.json
 RetroFPSProject/Saved/Telemetry/Telemetry.json
+RetrofPSProject\Saved\ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+RetrofPSProject\Saved\ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode
+RetrofPSProject\Saved...\ShaderCode-Global-PCD3D_SM6-PCD3D_SM6.ushadercode
+RetrofPSProject\Saved\StagedBuilds\Windows\En...UnrealGame-Win64-DebugGame.exe
+RetrofPSProject\Saved\StagedBuilds\Windows\En...UnrealGame-Win64-DebugGame.pdb
